@@ -36,6 +36,9 @@
   font-weight:600;
   letter-spacing:.2px;
 }
+
+.topbar-center:hover{ color:var(--topbar-fg); }
+
 .topbar-phone{
   position:absolute;
   right:2rem;
@@ -100,9 +103,12 @@
 
 /* Responsive niceties */
 @media (max-width:900px){
+  .logo img{ justify-self: center;}
+  .mainbar-inner{ justify-content: center; }
   .primary-nav ul{ gap:16px; }
 }
 @media (max-width:720px){
-  .mainbar-inner{ grid-template-columns:1fr; row-gap:12px; }
-  .primary-nav ul{ justify-content:center; flex-wrap:wrap; margin-bottom: 2rem;}
+  .logo img{ justify-self: center;}
+  .mainbar-inner{ justify-content: center; padding-left: 1rem; grid-template-columns:1fr; row-gap:12px; }
+  .primary-nav ul{ justify-content:center; padding-left: 1rem; flex-wrap:wrap; margin-bottom: 2rem;}
 }

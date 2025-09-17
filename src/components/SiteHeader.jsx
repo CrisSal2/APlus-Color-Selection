@@ -7,7 +7,7 @@ export default function SiteHeader() {
       {/* Top dark strip */}
       <div className="topbar">
         <div className="topbar-inner">
-          <a href="#" className="topbar-center">APlus Interior Design & Remodeling</a>
+          <a className="topbar-center">APlus Interior Design & Remodeling</a>
           <a className="topbar-phone" href="tel:19494582108">949.458.2108</a>
         </div>
       </div>
@@ -15,7 +15,7 @@ export default function SiteHeader() {
       {/* Main header */}
       <div className="mainbar">
         <div className="mainbar-inner">
-          <a className="logo" href="#" aria-label="A Plus Interior Design and Remodeling">
+          <a className="logo" aria-label="A Plus Interior Design and Remodeling">
             <img src={A_Plus_Logo_dark} alt="A Plus" height="42" />
           </a>
 
