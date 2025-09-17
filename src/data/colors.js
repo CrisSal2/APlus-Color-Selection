@@ -5,8 +5,8 @@ export const COLORS = [
 
 
 {
-id: "Maple - Pure White 20",
-name: "Maple - Pure White 20",
+id: "Pure White",
+name: "Pure White",
 image: "/colors/Maple - Pure White 20.png",
 driveUrl: "https://drive.google.com/file/d/1VunI7IedaN6v93ursC_XXqN2vJ5_xA73/view?usp=drive_link",
 },
