@@ -1,0 +1,108 @@
+:root{
+  --topbar-bg:#333;           /* dark strip */
+  --topbar-fg:#e8f6fb;        /* light teal-ish text */
+  --topbar-pill-bg:#e9ecef;   /* phone pill */
+  --nav-text:#0b0f14;         /* near-black */
+  --link-hover:#0a66c2;       /* subtle blue hover */
+}
+
+.site-header{ 
+    position:fixed; 
+    top:0; 
+    left:0; 
+    inline-size:100%; 
+    z-index:1000; 
+    box-shadow:0 2px 4px rgba(0,0,0,0.05); 
+}
+
+/* Top dark strip */
+.topbar{ 
+    background:var(--topbar-bg); }
+.topbar-inner{
+  max-width:1200px;
+  margin:0 auto;
+  padding:8px 16px;
+  position:relative;          /* allows centering + right pill */
+  min-height:40px;
+}
+.topbar-center{
+  position:absolute;
+  left:50%;
+  top:50%;
+  transform:translate(-50%,-50%);
+  color:var(--topbar-fg);
+  text-decoration:none;
+  font-size:14px;
+  font-weight:600;
+  letter-spacing:.2px;
+}
+.topbar-phone{
+  position:absolute;
+  right:2rem;
+  top:50%;
+  transform:translateY(-50%);
+  background:var(--topbar-pill-bg);
+  border-radius:6px;
+  padding:6px 12px;
+  font-weight:600;
+  color:#222;
+  text-decoration:none;
+}
+.topbar-phone:hover{ filter:brightness(.96); }
+
+/* Main header */
+
+.mainbar{ 
+    background:#fff; 
+    border-bottom:1px solid #eceff3; 
+}
+
+
+.mainbar-inner{
+  max-width:1200px;
+  margin:0 auto;
+  padding-right: 2rem;
+  display:grid;
+  grid-template-columns:auto 1fr;
+  align-items:center;
+  column-gap:24px;
+}
+.logo img{ display:block; height:70%; width:auto; }
+
+/* Nav */
+
+.primary-nav ul{
+  display:flex;
+  align-items:center;
+  justify-content:flex-end; /* to the right like screenshot */
+  gap:24px;
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+.primary-nav a{
+  text-decoration:none;
+  color:var(--nav-text);
+  font-weight:600;
+  font-size:16px;
+}
+.primary-nav a:hover{ color:var(--link-hover); }
+
+/* tiny down-carets (static) */
+.has-caret > a::after{
+  content:"\25BE";
+  margin-left:6px;
+  font-size:.8em;
+}
+
+/* Slight emphasis for the CTA */
+.primary-nav a.cta{ font-weight:700; }
+
+/* Responsive niceties */
+@media (max-width:900px){
+  .primary-nav ul{ gap:16px; }
+}
+@media (max-width:720px){
+  .mainbar-inner{ grid-template-columns:1fr; row-gap:12px; }
+  .primary-nav ul{ justify-content:center; flex-wrap:wrap; margin-bottom: 2rem;}
+}
