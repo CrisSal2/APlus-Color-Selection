@@ -18,7 +18,7 @@ return (
 <div className="swatch-wrapper">
 <header className="swatch-header">
 <h1 className="brand">APlus Color Selection</h1>
-<p className="subtitle">Tap a color to view the spec in Google Drive</p>
+<p className="subtitle">Tap a color to view the example</p>
 </header>
 
 
