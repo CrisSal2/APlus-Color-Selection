@@ -1,0 +1,77 @@
+/* Root layout */
+.swatch-wrapper {
+max-width: 1100px;
+margin: 0 auto;
+padding: 2rem 1rem 3rem;
+}
+
+
+.swatch-header { text-align: center; margin-bottom: 1.25rem; }
+.brand {
+font-size: clamp(1.5rem, 2.4vw + 1rem, 2.25rem);
+font-weight: 700;
+letter-spacing: 0.2px;
+}
+.subtitle { color: #5b6672; margin-top: 0.25rem; }
+
+
+/* Grid */
+.swatch-grid {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 4.25rem 5rem;
+list-style: none;
+padding: 0;
+margin: 0;
+max-width: 6 * 160px; /* enforce maximum of ~6 columns */
+margin-left: auto;
+margin-right: auto;
+}
+
+
+/* Item */
+.swatch-item { display: grid; place-items: center; gap: 0.5rem; }
+
+
+/* Circular preview */
+.swatch {
+inline-size: 140px;
+block-size: 140px;
+border-radius: 50%;
+overflow: hidden;
+border: 2px solid #e5e7eb; /* light gray ring */
+background: #fff;
+display: grid;
+place-items: center;
+cursor: pointer;
+transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
+box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+.swatch:hover, .swatch:focus-visible {
+transform: translateY(-2px);
+border-color: #94a3b8; /* slate-300 */
+box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+.swatch:active { transform: translateY(0); }
+
+
+.swatch img {
+width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*************************************************************** OLD  ***************************************************************/
+
+

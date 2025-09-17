@@ -1,19 +1,16 @@
 import { useState } from 'react'
 import './App.css'
+import ColorSwatchGrid from "./components/ColorSwatchGrid";
+import { COLORS } from "./data/colors";
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <div>
-      </div>
-      <h1>APlus Color Selection</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-      </div>
+      <main>
+        <ColorSwatchGrid colors={COLORS} />
+      </main>
     </>
   )
 }

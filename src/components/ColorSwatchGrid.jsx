@@ -17,7 +17,7 @@ window.open(url, "_blank", "noopener,noreferrer");
 return (
 <div className="swatch-wrapper">
 <header className="swatch-header">
-<h1 className="brand">APlus Cabinet Selection</h1>
+<h1 className="brand">APlus Color Selection</h1>
 <p className="subtitle">Tap a color to view the spec in Google Drive</p>
 </header>
 
