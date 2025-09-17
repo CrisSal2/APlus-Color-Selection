@@ -12,7 +12,7 @@ font-size: clamp(1.5rem, 2.4vw + 1rem, 2.25rem);
 font-weight: 700;
 letter-spacing: 0.2px;
 }
-.subtitle { color: #5b6672; margin-top: 0.25rem; }
+.subtitle { padding-bottom: 2rem; color: #5b6672; margin-top: 0.25rem; }
 
 
 /* Grid */
