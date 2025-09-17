@@ -2,7 +2,7 @@ export const COLORS = [
 {
 id: "Rift Cut White Oak - Natural 10",
 name: "Rift Cut White Oak - Natural 10",
-image: "/colors/Rift Cut White Oak - Natural 10.jpg", // place file in: public/colors/pure-white.jpg
+image: "/colors/Rift Cut White Oak - Natural 10.jpg",
 driveUrl: "https://drive.google.com/file/d/1yWTVyCm8rzYeIy11v-Am5qpxGlshsKOz/view?usp=sharing",
 },
 {

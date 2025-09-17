@@ -62,17 +62,12 @@ height: 140%;
 }
 
 
+@media screen and (max-width: 900px) {
+  .swatch-wrapper { padding-top: 13rem;}
+}
 
 
-
-
-
-
-
-
-
-
-
-/*************************************************************** OLD  ***************************************************************/
-
+@media screen and (max-width: 720px) {
+  .swatch-wrapper { padding-top: 20rem;}  
+}
 
