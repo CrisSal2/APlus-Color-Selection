@@ -1,12 +1,36 @@
-# React + Vite
+## APlus Color Selection
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  # License
+  ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+  
+  
+## Description
+  
+  - APlus-Color-Selection is a curated collection of all available color samples for our custom kitchen cabinets. This repository serves as a digital catalog where customers, designers, and team members can explore the different finishes, tones, and styles we offer. Each sample includes its name and visual representation.
+  
 
-Currently, two official plugins are available:
+## Table of Contents
+  
+  - [Features](#features)
+  - [Usage](#usage)
+  - [Questions](#questions)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  
+## Features
+  
+  - Shows the Vast collection of color finishes, tones, and styles we offer.
 
-## Expanding the ESLint configuration
+  - Click on a color you'd like to see more information on.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Usage
+  
+  - For customer color selection for their custom made cabinets.
+  
+  
+## Questions
+  
+  - https://github.com/CrisSal2
+  
+  - salgado.chris.m@gamil.com
+  
