@@ -39,7 +39,7 @@ export default function SiteFooter() {
                     <div className='about'>
                         <div className='section-label'>About Us</div>
                         <p>
-                            APlus offers home design‑build solutions in Orange County,
+                            APlus offers home design-build solutions in Orange County,
                             California. We have extensive experience with kitchen, bathroom
                             and complete home remodels.
                         </p>
