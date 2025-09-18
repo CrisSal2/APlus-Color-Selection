@@ -16,10 +16,10 @@ driveUrl: "https://drive.google.com/file/d/1VunI7IedaN6v93ursC_XXqN2vJ5_xA73/vie
     
 
 {
-id: "Rift Cut White Oak - Natural 10",
-name: "Rift Cut White Oak - Natural 10",
-image: "/colors/Rift Cut White Oak - Natural 10.jpg",
-driveUrl: "https://drive.google.com/file/d/1yWTVyCm8rzYeIy11v-Am5qpxGlshsKOz/view?usp=sharing",
+id: "Extra White",
+name: "Extra White",
+image: "/colors/Extra White.png",
+driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=drive_link",
 },
 
 
@@ -27,10 +27,10 @@ driveUrl: "https://drive.google.com/file/d/1yWTVyCm8rzYeIy11v-Am5qpxGlshsKOz/vie
 
 
 {
-id: "Test 3",
-name: "Test 3",
-image: "/colors/espresso-oak.jpg",
-driveUrl: "https://drive.google.com/file/d/EXAMPLE_ESPRESSO/view?usp=sharing",
+id: "Swiss Coffeee",
+name: "Swiss Coffee",
+image: "/colors/Swiss Coffee.png",
+driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=drive_link",
 },
 
 
@@ -38,10 +38,10 @@ driveUrl: "https://drive.google.com/file/d/EXAMPLE_ESPRESSO/view?usp=sharing",
 
 
 {
-id: "Test 4",
-name: "Test 4",
-image: "/colors/matte-black.jpg",
-driveUrl: "https://drive.google.com/file/d/EXAMPLE_BLACK/view?usp=sharing",
+id: "Marshmallow",
+name: "Marshmallow",
+image: "/colors/Marshmallow.png",
+driveUrl: "https://drive.google.com/file/d/1S18Tmz4R_4gxFKxP4_yeQNmvGe80MFZR/view?usp=drive_link",
 },
 
 
@@ -49,10 +49,10 @@ driveUrl: "https://drive.google.com/file/d/EXAMPLE_BLACK/view?usp=sharing",
 
 
 {
-id: "Test 5",
-name: "Test 5",
-image: "/colors/sage-green.jpg",
-driveUrl: "https://drive.google.com/file/d/EXAMPLE_SAGE/view?usp=sharing",
+id: "Creamy",
+name: "Creamy",
+image: "/colors/Creamy.png",
+driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
 },
 
 
@@ -60,10 +60,10 @@ driveUrl: "https://drive.google.com/file/d/EXAMPLE_SAGE/view?usp=sharing",
 
 
 {
-id: "Test 6",
-name: "Test 6",
-image: "/colors/sage-green.jpg",
-driveUrl: "https://drive.google.com/file/d/EXAMPLE_SAGE/view?usp=sharing",
+id: "Alabaster",
+name: "Alabaster",
+image: "/colors/Alabaster.png",
+driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
 },
 
 
@@ -71,10 +71,10 @@ driveUrl: "https://drive.google.com/file/d/EXAMPLE_SAGE/view?usp=sharing",
 
 
 {
-id: "Test 7",
-name: "Test 7",
-image: "/colors/sage-green.jpg",
-driveUrl: "https://drive.google.com/file/d/EXAMPLE_SAGE/view?usp=sharing",
+id: "Whisper White",
+name: "Whisper White",
+image: "/colors/Whisper White.png",
+driveUrl: "https://drive.google.com/file/d/1_StC2qDYoIHQxtozImxPoCEP0SwYbjlP/view?usp=drive_link",
 },
 
 
@@ -82,20 +82,31 @@ driveUrl: "https://drive.google.com/file/d/EXAMPLE_SAGE/view?usp=sharing",
 
 
 {
-id: "Test 8",
-name: "Test 8",
-image: "/colors/sage-green.jpg",
-driveUrl: "https://drive.google.com/file/d/EXAMPLE_SAGE/view?usp=sharing",
+id: "Antique White",
+name: "Antique White",
+image: "/colors/Antique White.png",
+driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
 },
 
 
     /* 9 */
 
+
+{
+id: "Rift Cut White Oak - Natural 10",
+name: "Rift Cut White Oak - Natural 10",
+image: "/colors/Rift Cut White Oak - Natural 10.jpg",
+driveUrl: "https://drive.google.com/file/d/1yWTVyCm8rzYeIy11v-Am5qpxGlshsKOz/view?usp=sharing",
+},
+
+
+    /* 10 */
+
     
 {
-id: "Test 9",
-name: "Test 9",
-image: "/colors/sage-green.jpg",
-driveUrl: "https://drive.google.com/file/d/EXAMPLE_SAGE/view?usp=sharing",
+id: "Walnut - Manganese 25",
+name: "Walnut - Manganese 25",
+image: "/colors/Walnut Manganese 25.jpg",
+driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
 },
 ];
