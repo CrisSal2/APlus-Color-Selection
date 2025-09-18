@@ -19,7 +19,7 @@ driveUrl: "https://drive.google.com/file/d/1VunI7IedaN6v93ursC_XXqN2vJ5_xA73/vie
 id: "Extra White",
 name: "Extra White",
 image: "/colors/Extra White.png",
-driveUrl: "https://drive.google.com/file/d/1VunI7IedaN6v93ursC_XXqN2vJ5_xA73/view?usp=drive_link",
+driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=drive_link",
 },
 
 
@@ -27,10 +27,10 @@ driveUrl: "https://drive.google.com/file/d/1VunI7IedaN6v93ursC_XXqN2vJ5_xA73/vie
 
 
 {
-id: "Antique White",
-name: "Antique White",
-image: "/colors/Antique White.png",
-driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
+id: "Swiss Coffeee",
+name: "Swiss Coffee",
+image: "/colors/Swiss Coffee.png",
+driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=drive_link",
 },
 
 
@@ -60,9 +60,9 @@ driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/vie
 
 
 {
-id: "Test 6",
-name: "Test 6",
-image: "/colors/sage-green.jpg",
+id: "Alabaster",
+name: "Alabaster",
+image: "/colors/Alabaster.png",
 driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
 },
 
@@ -71,14 +71,25 @@ driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/vie
 
 
 {
-id: "Test 7",
-name: "Test 7",
-image: "/colors/sage-green.jpg",
-driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
+id: "Whisper White",
+name: "Whisper White",
+image: "/colors/Whisper White.png",
+driveUrl: "https://drive.google.com/file/d/1_StC2qDYoIHQxtozImxPoCEP0SwYbjlP/view?usp=drive_link",
 },
 
 
     /* 8 */
+
+
+{
+id: "Antique White",
+name: "Antique White",
+image: "/colors/Antique White.png",
+driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
+},
+
+
+    /* 9 */
 
 
 {
@@ -89,7 +100,7 @@ driveUrl: "https://drive.google.com/file/d/1yWTVyCm8rzYeIy11v-Am5qpxGlshsKOz/vie
 },
 
 
-    /* 9 */
+    /* 10 */
 
     
 {
