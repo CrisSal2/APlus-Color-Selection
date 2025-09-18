@@ -82,6 +82,17 @@ driveUrl: "https://drive.google.com/file/d/1_StC2qDYoIHQxtozImxPoCEP0SwYbjlP/vie
 
 
 {
+id: "Shoji White",
+name: "Shoji White",
+image: "/colors/Shoji White.png",
+driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
+},
+
+
+    /* 9 */
+
+
+{
 id: "Antique White",
 name: "Antique White",
 image: "/colors/Antique White.png",
@@ -89,7 +100,7 @@ driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/vie
 },
 
 
-    /* 9 */
+    /* 10 */
 
 
 {
@@ -100,7 +111,7 @@ driveUrl: "https://drive.google.com/file/d/1yWTVyCm8rzYeIy11v-Am5qpxGlshsKOz/vie
 },
 
 
-    /* 10 */
+    /* 11 */
 
     
 {
