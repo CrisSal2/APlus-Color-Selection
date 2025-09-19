@@ -1,6 +1,6 @@
-// ColorSwatchGrid.jsx
 import { useEffect, useMemo, useState } from "react";
 import "./ColorSwatchGrid.css";
+
 
 /**
  * Convert common Google Drive/Docs links into an embeddable preview URL.
@@ -9,28 +9,30 @@ import "./ColorSwatchGrid.css";
  *  - drive.google.com/open?id=<ID>   or  .../uc?id=<ID>
  *  - docs.google.com/document|spreadsheets|presentation/d/<ID>/...
  */
+
+
 function getDrivePreviewUrl(url = "") {
   try {
     const u = new URL(url);
     const host = u.hostname;
-    const parts = u.pathname.split("/").filter(Boolean); // e.g. ["file", "d", "<ID>", "view"]
+    const parts = u.pathname.split("/").filter(Boolean); /* e.g. ["file", "d", "<ID>", "view"] */
 
-    // Google Drive "file" URLs: /file/d/<ID>/...
+    /* Google Drive "file" URLs: /file/d/<ID>/... */
     if (host.includes("drive.google.com")) {
       if (parts[0] === "file" && parts[1] === "d" && parts[2]) {
         const id = parts[2];
         return `https://drive.google.com/file/d/${id}/preview`;
       }
-      // Open/uc URLs with ?id=<ID>
+      /* Open/uc URLs with ?id=<ID> */
       const id = u.searchParams.get("id");
       if (id) {
         return `https://drive.google.com/file/d/${id}/preview`;
       }
     }
 
-    // Google Docs/Sheets/Slides: /<type>/d/<ID>/...
+    /* Google Docs/Sheets/Slides: /<type>/d/<ID>/... */
     if (host.includes("docs.google.com")) {
-      const type = parts[0]; // document | spreadsheets | presentation
+      const type = parts[0]; /* document | spreadsheets | presentation */
       if (
         ["document", "spreadsheets", "presentation"].includes(type) &&
         parts[1] === "d" &&
@@ -41,15 +43,15 @@ function getDrivePreviewUrl(url = "") {
       }
     }
   } catch (_) {
-    // ignore
+  /* ignore */
   }
-  // Fallback
+  /* Fallback */
   return url;
 }
 
 
 export default function ColorSwatchGrid({ colors = [] }) {
-  const [active, setActive] = useState(null); // { name, driveUrl, previewUrl }
+  const [active, setActive] = useState(null); /* { name, driveUrl, previewUrl } */
 
   function openModal(color) {
     setActive({
@@ -61,7 +63,7 @@ export default function ColorSwatchGrid({ colors = [] }) {
     setActive(null);
   }
 
-  // ESC to close + lock background scroll
+  /* ESC to close + lock background scroll */
   useEffect(() => {
     function onKey(e) { if (e.key === "Escape") closeModal(); }
     if (active) {
@@ -97,7 +99,10 @@ export default function ColorSwatchGrid({ colors = [] }) {
         ))}
       </ul>
 
-      {/* Modal */}
+
+      {/********************************************************* Modal *********************************************************/}
+
+
       {active && (
         <div
           className="gd-modal-overlay"
