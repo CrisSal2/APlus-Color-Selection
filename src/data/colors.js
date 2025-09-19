@@ -82,6 +82,28 @@ driveUrl: "https://drive.google.com/file/d/1_StC2qDYoIHQxtozImxPoCEP0SwYbjlP/vie
 
 
 {
+id: "Mocha Base",
+name: "Mocha Base",
+image: "/colors/Mocha Base.png",
+driveUrl: "https://drive.google.com/file/d/1IRib5y1hFaTlTNTcX8WndcqZQeEh6g66/view?usp=sharing",
+},
+
+
+    /* 9 */
+
+
+{
+id: "Shoji White",
+name: "Shoji White",
+image: "/colors/Shoji White.png",
+driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
+},
+
+
+    /* 10 */
+
+
+{
 id: "Antique White",
 name: "Antique White",
 image: "/colors/Antique White.png",
@@ -89,7 +111,7 @@ driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/vie
 },
 
 
-    /* 9 */
+    /* 11 */
 
 
 {
@@ -100,7 +122,7 @@ driveUrl: "https://drive.google.com/file/d/1yWTVyCm8rzYeIy11v-Am5qpxGlshsKOz/vie
 },
 
 
-    /* 10 */
+    /* 12 */
 
     
 {
