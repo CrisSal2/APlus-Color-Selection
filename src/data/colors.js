@@ -19,7 +19,7 @@ driveUrl: "https://drive.google.com/file/d/1VunI7IedaN6v93ursC_XXqN2vJ5_xA73/vie
 id: "Extra White",
 name: "Extra White",
 image: "/colors/Extra White.png",
-driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=drive_link",
+driveUrl: "https://www.aplushomeimprovements.com/portfolio_page/193-design-and-build-kitchen-and-home-remodel-in-coto-de-caza-orange/",
 },
 
 
