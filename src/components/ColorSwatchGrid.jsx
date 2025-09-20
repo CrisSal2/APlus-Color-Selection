@@ -126,9 +126,19 @@ export default function ColorSwatchGrid({ colors = [] }) {
               />
             </div>
             <div className="gd-modal-footer">
-              <a className="gd-open-drive" href={active.driveUrl} target="_blank" rel="noopener noreferrer">
+
+
+
+                {/********************************************* Not all links are Drive links right now *********************************************/}
+
+
+
+              {/* <a className="gd-open-drive" href={active.driveUrl} target="_blank" rel="noopener noreferrer">
                 Open in Google Drive ↗
-              </a>
+              </a> */}
+
+
+
             </div>
           </div>
         </div>
