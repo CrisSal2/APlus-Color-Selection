@@ -64,12 +64,6 @@ export default function SiteFooter() {
                                 <li><a href="#">Client Testimonials</a></li>
                             </ul>
                         </nav>
-                        <div className="youtube-col">
-                            <div className="youtube-pill">
-                                <span className="play">▶</span>
-                                <span className="yt-label">YouTube Channel</span>
-                            </div>
-                        </div>
                 </section>
             </div>
         </footer>

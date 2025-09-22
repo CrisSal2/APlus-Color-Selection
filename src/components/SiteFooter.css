@@ -22,7 +22,7 @@
 
 
 .contact-grid {
-    display: grid;
+    place-items: center;
     grid-template-columns: 1fr 1fr;
     gap: 24px;
 }
@@ -163,36 +163,6 @@
 }
 
 
-.youtube-col {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-}
-
-
-.youtube-pill {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    border: 1px solid rgba(255, 255, 255, .3);
-    padding: 10px 14px;
-    border-radius: 22px;
-    color: #fff;
-}
-
-
-.youtube-pill .play {
-    font-size: 14px;
-    line-height: 1;
-}
-
-
-.youtube-pill .yt-label {
-    font-weight: 700;
-    letter-spacing: .02em;
-}
-
-
 @media (max-width: 900px) {
     .contact-grid {
         grid-template-columns: 1fr;
@@ -200,10 +170,6 @@
 
     .links-grid {
         grid-template-columns: 1fr 1fr;
-    }
-
-    .youtube-col {
-        justify-content: flex-start;
     }
 }
 
