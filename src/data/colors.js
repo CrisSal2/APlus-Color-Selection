@@ -122,25 +122,25 @@ driveUrl: "https://drive.google.com/file/d/1XdJcaRVx4DrVvFVRUDd2zKjXzPeVbM5k/vie
 },
 
 
-    /* Natural 10 - Rift Cut White Oak */
-
-
-{
-id: "Natural 10 - Rift Cut White Oak",
-name: "Natural 10 - Rift Cut White Oak",
-image: "/colors/Rift Cut White Oak - Natural 10.jpg",
-driveUrl: "https://drive.google.com/file/d/1kup1LQ4pFkj5qzfQfJEoAvq15rEaTAYx/view?usp=sharing",
-},
-
-
-    /* Manganese 25 - Walnut */
+    /* Accessible Beige - rgb: 209, 199, 184 */
 
     
 {
-id: "Manganese 25 - Walnut",
-name: "Manganese 25 - Walnut",
-image: "/colors/Walnut Manganese 25.jpg",
-driveUrl: "https://drive.google.com/file/d/1T_I1uMr0L4FNtVS_A_pxaK7wM6lRv3iw/view?usp=sharing",
+id: "Accessible Beige",
+name: "Accessible Beige",
+image: "/colors/Accessible Beige.png",
+driveUrl: "https://drive.google.com/file/d/1xwRiEoLZAphQPkZlbppeSIvHo26CprpD/view?usp=sharing",
+},
+
+
+    /* Worldly Gray - rgb: 206, 198, 187 */
+
+    
+{
+id: "Worldly Gray",
+name: "Worldly Gray",
+image: "/colors/Worldly Gray.png",
+driveUrl: "https://drive.google.com/file/d/13acraMADhZ69TlLoQkyB10azGdHXDL69/view?usp=sharing",
 },
 ];
 
@@ -159,4 +159,42 @@ id: "Finish - Wood",
 name: "Finish - Wood",
 image: "/colors/Finish - Wood.jpg",
 driveUrl: "https://drive.google.com/",
+}, */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**************************************************** For Later Input ***************************************************/
+
+
+
+
+    /* Natural 10 - Rift Cut White Oak */
+
+
+/* {
+id: "Natural 10 - Rift Cut White Oak",
+name: "Natural 10 - Rift Cut White Oak",
+image: "/colors/Rift Cut White Oak - Natural 10.jpg",
+driveUrl: "https://drive.google.com/file/d/1kup1LQ4pFkj5qzfQfJEoAvq15rEaTAYx/view?usp=sharing",
+}, */
+
+
+    /* Manganese 25 - Walnut */
+
+    
+/* {
+id: "Manganese 25 - Walnut",
+name: "Manganese 25 - Walnut",
+image: "/colors/Walnut Manganese 25.jpg",
+driveUrl: "https://drive.google.com/file/d/1T_I1uMr0L4FNtVS_A_pxaK7wM6lRv3iw/view?usp=sharing",
 }, */
