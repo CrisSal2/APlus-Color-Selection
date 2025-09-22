@@ -2,15 +2,6 @@ import { useEffect, useMemo, useState } from "react";
 import "./ColorSwatchGrid.css";
 
 
-/**
- * Convert common Google Drive/Docs links into an embeddable preview URL.
- * Works for:
- *  - drive.google.com/file/d/<ID>/view...
- *  - drive.google.com/open?id=<ID>   or  .../uc?id=<ID>
- *  - docs.google.com/document|spreadsheets|presentation/d/<ID>/...
- */
-
-
 function getDrivePreviewUrl(url = "") {
   try {
     const u = new URL(url);
