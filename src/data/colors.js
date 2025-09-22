@@ -1,47 +1,47 @@
 export const COLORS = [
 
 
-    /* 1 */
+    /* Pure White rgb: 237, 236, 230 */
 
 
 {
 id: "Pure White",
 name: "Pure White",
 image: "/colors/Pure White.png",
-driveUrl: "https://drive.google.com/file/d/1VunI7IedaN6v93ursC_XXqN2vJ5_xA73/view?usp=drive_link",
+driveUrl: "https://drive.google.com/file/d/1-Mq1w0MRaUZ3nsk3syrdPoldZqPbIIBx/view?usp=sharing",
 },
 
 
-    /* 2 */
+    /* Extra White rgb: 237, 238, 233 */
     
 
 {
 id: "Extra White",
 name: "Extra White",
 image: "/colors/Extra White.png",
-driveUrl: "https://www.aplushomeimprovements.com/portfolio_page/193-design-and-build-kitchen-and-home-remodel-in-coto-de-caza-orange/",
+driveUrl: "https://drive.google.com/file/d/15OUzyukwbdQ2RRv9eiKKEcWn0oolmuCH/view?usp=sharing",
 },
 
 
-    /* 3 */
+    /* Swiss Coffeee rgb: 238, 236, 225 */
 
 
 {
 id: "Swiss Coffeee",
 name: "Swiss Coffee",
 image: "/colors/Swiss Coffee.png",
-driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=drive_link",
+driveUrl: "https://drive.google.com/file/d/1BymnAq4XUv-ALwDCFYpGMnB_pJzJ3d2i/view?usp=sharing",
 },
 
 
-    /* 4 */
+    /* Marshmallow rgb: 238, 233, 224 */
 
 
 {
 id: "Marshmallow",
 name: "Marshmallow",
 image: "/colors/Marshmallow.png",
-driveUrl: "https://drive.google.com/file/d/1S18Tmz4R_4gxFKxP4_yeQNmvGe80MFZR/view?usp=drive_link",
+driveUrl: "https://drive.google.com/file/d/16WYEe1FEV-x4QXAP2pFntyJLQMn77kRf/view?usp=sharing",
 },
 
 
