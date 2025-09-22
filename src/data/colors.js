@@ -23,6 +23,17 @@ driveUrl: "https://drive.google.com/file/d/15OUzyukwbdQ2RRv9eiKKEcWn0oolmuCH/vie
 },
 
 
+    /* Straight White - rgb: 247, 247, 241 */
+
+    
+{
+id: "Straight White",
+name: "Straight White",
+image: "/colors/Straight White.png",
+driveUrl: "https://drive.google.com/file/d/1N3w-iRGWjOYnQ6xt_18W42kQhyT5V6ut/view?usp=sharing",
+},
+
+
     /* Swiss Coffeee - rgb: 238, 236, 225 */
 
 
