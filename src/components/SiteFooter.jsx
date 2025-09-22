@@ -6,7 +6,7 @@ export default function SiteFooter() {
             <div className="footer-inner">
                 {/* Top Block */}
                 <section className='contact-block'>
-                    <h2 className='footer-title'>Test Footer</h2>
+                    <h2 className='footer-title'></h2>
 
 
                     <div className='contact-grid'>

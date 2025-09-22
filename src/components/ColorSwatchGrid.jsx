@@ -71,7 +71,7 @@ export default function ColorSwatchGrid({ colors = [] }) {
     <div className="swatch-wrapper">
       <header className="swatch-header">
         <h1 className="brand">APlus Color Selection</h1>
-        <p className="subtitle">Tap a color to view the example</p>
+        <p className="subtitle">Tap a color to view the sample</p>
       </header>
 
       <ul className="swatch-grid" role="list">
