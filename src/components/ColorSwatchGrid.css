@@ -100,7 +100,7 @@ height: 141%;
 }
 
 .gd-modal{
-  padding-top: 10%;
+  padding-top: 0%;
   width: clamp(320px, 92vw, 1100px);
   background: #0b0f14;          /* dark frame helps Drive preview pop */
   color: #e5e7eb;
@@ -186,17 +186,17 @@ height: 141%;
 
 @media screen and (max-width: 900px) {
   .swatch-wrapper { padding-top: 13rem;}
-  .gd-modal{ padding-top: 10%;}
+  .gd-modal{ padding-top: 22%;}
 }
 
 
 @media screen and (max-width: 720px) {
   .swatch-wrapper { padding-top: 2rem;}  
-  .gd-modal{ padding-top: 28%;}
+  .gd-modal{ padding-top: 8%;}
 }
 
 
 @media screen and (max-width: 590px) {
-  .gd-modal{ padding-top: 60%;}
+  .gd-modal{ padding-top: 8%;}
 }
 
