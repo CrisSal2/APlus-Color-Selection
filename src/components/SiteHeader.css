@@ -156,6 +156,7 @@
 
 
 @media (max-width:720px){
+  .site-header{ position:static; }
   .logo img{ justify-self: center;}
   .mainbar-inner{ justify-content: center; padding-left: 1rem; grid-template-columns:1fr; row-gap:12px; }
   .primary-nav ul{ justify-content:center; padding-left: 1rem; flex-wrap:wrap; margin-bottom: 2rem;}
