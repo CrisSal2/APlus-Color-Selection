@@ -8,7 +8,7 @@ export const COLORS = [
 id: "Pure White",
 name: "Pure White",
 image: "/colors/Pure White.png",
-driveUrl: "https://drive.google.com/file/d/1-Mq1w0MRaUZ3nsk3syrdPoldZqPbIIBx/view?usp=sharing",
+driveUrl: "https://drive.google.com/file/d/1ComxoQKV-dvCdvww2R9CFXh1iyKJJdAI/view?usp=sharing",
 },
 
 
@@ -45,90 +45,107 @@ driveUrl: "https://drive.google.com/file/d/16WYEe1FEV-x4QXAP2pFntyJLQMn77kRf/vie
 },
 
 
-    /* 5 */
+    /* Creamy rgb: 239, 232, 219 */
 
 
 {
 id: "Creamy",
 name: "Creamy",
 image: "/colors/Creamy.png",
-driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
+driveUrl: "https://drive.google.com/file/d/1ojbla6Q1yH8tqwiroPjY_QvP4MUX0UZW/view?usp=sharing",
 },
 
 
-    /* 6 */
+    /* Alabaster rgb: 238, 234, 224 */
 
 
 {
 id: "Alabaster",
 name: "Alabaster",
 image: "/colors/Alabaster.png",
-driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
+driveUrl: "https://drive.google.com/file/d/1PIwN3pg4DUth7rjSfUT9YoFo8tArAax_/view?usp=sharing",
 },
 
 
-    /* 7 */
+    /* Whisper White rgb: 244, 243, 234 */
 
 
 {
 id: "Whisper White",
 name: "Whisper White",
 image: "/colors/Whisper White.png",
-driveUrl: "https://drive.google.com/file/d/1_StC2qDYoIHQxtozImxPoCEP0SwYbjlP/view?usp=drive_link",
+driveUrl: "https://drive.google.com/file/d/1UDVO2ahnxv5VkjQYRrYdHaRr6PpDKIKN/view?usp=sharing",
 },
 
 
-    /* 8 */
+    /* Mocha Base rgb: 231, 220, 204 */
 
 
 {
 id: "Mocha Base",
 name: "Mocha Base",
 image: "/colors/Mocha Base.png",
-driveUrl: "https://drive.google.com/file/d/1IRib5y1hFaTlTNTcX8WndcqZQeEh6g66/view?usp=sharing",
+driveUrl: "https://drive.google.com/file/d/1oSzh3QHfGxmIiJA3ImA1xViyyoyHqt9E/view?usp=sharing",
 },
 
 
-    /* 9 */
+    /* Shoji White rgb: 230, 223, 211 */
 
 
 {
 id: "Shoji White",
 name: "Shoji White",
 image: "/colors/Shoji White.png",
-driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
+driveUrl: "https://drive.google.com/file/d/1LrglKGVDfD02kIje_LetN7wnR-UQuNC6/view?usp=sharing",
 },
 
 
-    /* 10 */
+    /* Antique White rgb: 232, 220, 198 */
 
 
 {
 id: "Antique White",
 name: "Antique White",
 image: "/colors/Antique White.png",
-driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
+driveUrl: "https://drive.google.com/file/d/1XdJcaRVx4DrVvFVRUDd2zKjXzPeVbM5k/view?usp=sharing",
 },
 
 
-    /* 11 */
+    /* Rift Cut White Oak - Natural 10 */
 
 
 {
 id: "Rift Cut White Oak - Natural 10",
 name: "Rift Cut White Oak - Natural 10",
 image: "/colors/Rift Cut White Oak - Natural 10.jpg",
-driveUrl: "https://drive.google.com/file/d/1yWTVyCm8rzYeIy11v-Am5qpxGlshsKOz/view?usp=sharing",
+driveUrl: "https://drive.google.com/file/d/1kup1LQ4pFkj5qzfQfJEoAvq15rEaTAYx/view?usp=sharing",
 },
 
 
-    /* 12 */
+    /* Walnut - Manganese 25 */
 
     
 {
 id: "Walnut - Manganese 25",
 name: "Walnut - Manganese 25",
 image: "/colors/Walnut Manganese 25.jpg",
-driveUrl: "https://drive.google.com/file/d/1PMbzpMtYXIpnuXzIIRm8F7jQfZofp3HW/view?usp=sharing",
+driveUrl: "https://drive.google.com/file/d/1T_I1uMr0L4FNtVS_A_pxaK7wM6lRv3iw/view?usp=sharing",
 },
 ];
+
+
+
+
+
+/**************************************************** Templated Colors ***************************************************/
+
+
+    /* Finish - Wood rgb: 000, 000, 000 */
+
+    
+/* {
+id: "Finish - Wood",
+name: "Finish - Wood",
+image: "/colors/Finish - Wood.jpg",
+driveUrl: "https://drive.google.com/",
+}, */
