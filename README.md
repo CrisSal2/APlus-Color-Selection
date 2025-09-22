@@ -7,13 +7,11 @@
 ## Description
   
   - APlus-Color-Selection is a curated collection of all available color samples for our custom kitchen cabinets. This repository serves as a digital catalog where customers, designers, and team members can explore the different finishes, tones, and styles we offer. Each sample includes its name and visual representation.
-  
 
-## Table of Contents
-  
-  - [Features](#features)
-  - [Usage](#usage)
-  - [Questions](#questions)
+
+## Launched Site: https://aplus-color-selection-1.onrender.com
+
+![Webpage Preview](./public/site_preview.png)
 
   
 ## Features
