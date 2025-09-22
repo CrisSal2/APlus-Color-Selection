@@ -1,7 +1,7 @@
 export const COLORS = [
 
 
-    /* Pure White rgb: 237, 236, 230 */
+    /* Pure White - rgb: 237, 236, 230 */
 
 
 {
@@ -12,7 +12,7 @@ driveUrl: "https://drive.google.com/file/d/1ComxoQKV-dvCdvww2R9CFXh1iyKJJdAI/vie
 },
 
 
-    /* Extra White rgb: 237, 238, 233 */
+    /* Extra White - rgb: 237, 238, 233 */
     
 
 {
@@ -23,7 +23,7 @@ driveUrl: "https://drive.google.com/file/d/15OUzyukwbdQ2RRv9eiKKEcWn0oolmuCH/vie
 },
 
 
-    /* Swiss Coffeee rgb: 238, 236, 225 */
+    /* Swiss Coffeee - rgb: 238, 236, 225 */
 
 
 {
@@ -34,7 +34,7 @@ driveUrl: "https://drive.google.com/file/d/1BymnAq4XUv-ALwDCFYpGMnB_pJzJ3d2i/vie
 },
 
 
-    /* Marshmallow rgb: 238, 233, 224 */
+    /* Marshmallow - rgb: 238, 233, 224 */
 
 
 {
@@ -45,7 +45,7 @@ driveUrl: "https://drive.google.com/file/d/16WYEe1FEV-x4QXAP2pFntyJLQMn77kRf/vie
 },
 
 
-    /* Creamy rgb: 239, 232, 219 */
+    /* Creamy - rgb: 239, 232, 219 */
 
 
 {
@@ -56,7 +56,7 @@ driveUrl: "https://drive.google.com/file/d/1ojbla6Q1yH8tqwiroPjY_QvP4MUX0UZW/vie
 },
 
 
-    /* Alabaster rgb: 238, 234, 224 */
+    /* Alabaster - rgb: 238, 234, 224 */
 
 
 {
@@ -67,7 +67,7 @@ driveUrl: "https://drive.google.com/file/d/1PIwN3pg4DUth7rjSfUT9YoFo8tArAax_/vie
 },
 
 
-    /* Whisper White rgb: 244, 243, 234 */
+    /* Whisper White - rgb: 244, 243, 234 */
 
 
 {
@@ -78,7 +78,7 @@ driveUrl: "https://drive.google.com/file/d/1UDVO2ahnxv5VkjQYRrYdHaRr6PpDKIKN/vie
 },
 
 
-    /* Mocha Base rgb: 231, 220, 204 */
+    /* Mocha Base - rgb: 231, 220, 204 */
 
 
 {
@@ -89,7 +89,7 @@ driveUrl: "https://drive.google.com/file/d/1oSzh3QHfGxmIiJA3ImA1xViyyoyHqt9E/vie
 },
 
 
-    /* Shoji White rgb: 230, 223, 211 */
+    /* Shoji White - rgb: 230, 223, 211 */
 
 
 {
@@ -100,7 +100,7 @@ driveUrl: "https://drive.google.com/file/d/1LrglKGVDfD02kIje_LetN7wnR-UQuNC6/vie
 },
 
 
-    /* Antique White rgb: 232, 220, 198 */
+    /* Antique White - rgb: 232, 220, 198 */
 
 
 {
@@ -111,23 +111,23 @@ driveUrl: "https://drive.google.com/file/d/1XdJcaRVx4DrVvFVRUDd2zKjXzPeVbM5k/vie
 },
 
 
-    /* Rift Cut White Oak - Natural 10 */
+    /* Natural 10 - Rift Cut White Oak */
 
 
 {
-id: "Rift Cut White Oak - Natural 10",
-name: "Rift Cut White Oak - Natural 10",
+id: "Natural 10 - Rift Cut White Oak",
+name: "Natural 10 - Rift Cut White Oak",
 image: "/colors/Rift Cut White Oak - Natural 10.jpg",
 driveUrl: "https://drive.google.com/file/d/1kup1LQ4pFkj5qzfQfJEoAvq15rEaTAYx/view?usp=sharing",
 },
 
 
-    /* Walnut - Manganese 25 */
+    /* Manganese 25 - Walnut */
 
     
 {
-id: "Walnut - Manganese 25",
-name: "Walnut - Manganese 25",
+id: "Manganese 25 - Walnut",
+name: "Manganese 25 - Walnut",
 image: "/colors/Walnut Manganese 25.jpg",
 driveUrl: "https://drive.google.com/file/d/1T_I1uMr0L4FNtVS_A_pxaK7wM6lRv3iw/view?usp=sharing",
 },
@@ -137,10 +137,10 @@ driveUrl: "https://drive.google.com/file/d/1T_I1uMr0L4FNtVS_A_pxaK7wM6lRv3iw/vie
 
 
 
-/**************************************************** Templated Colors ***************************************************/
+/**************************************************** Templated Color ***************************************************/
 
 
-    /* Finish - Wood rgb: 000, 000, 000 */
+    /* Finish - Wood - rgb: 000, 000, 000 */
 
     
 /* {

@@ -1,3 +1,5 @@
+
+
 :root{
   --topbar-bg:#333;           /* dark strip */
   --topbar-fg:#e8f6fb;        /* light teal-ish text */
@@ -5,6 +7,7 @@
   --nav-text:#0b0f14;         /* near-black */
   --link-hover:#0a66c2;       /* subtle blue hover */
 }
+
 
 .site-header{ 
     position:fixed; 
@@ -15,9 +18,15 @@
     box-shadow:0 2px 4px rgba(0,0,0,0.05); 
 }
 
+
 /* Top dark strip */
+
+
 .topbar{ 
-    background:var(--topbar-bg); }
+  background:var(--topbar-bg); 
+}
+
+
 .topbar-inner{
   max-width:1200px;
   margin:0 auto;
@@ -25,6 +34,8 @@
   position:relative;          /* allows centering + right pill */
   min-height:40px;
 }
+
+
 .topbar-center{
   position:absolute;
   left:50%;
@@ -37,7 +48,11 @@
   letter-spacing:.2px;
 }
 
-.topbar-center:hover{ color:var(--topbar-fg); }
+
+.topbar-center:hover{ 
+  color:var(--topbar-fg); 
+}
+
 
 .topbar-phone{
   position:absolute;
@@ -51,13 +66,19 @@
   color:#222;
   text-decoration:none;
 }
-.topbar-phone:hover{ filter:brightness(.96); }
+
+
+.topbar-phone:hover{ 
+  filter:brightness(.96); 
+}
+
 
 /* Main header */
 
+
 .mainbar{ 
-    background:#fff; 
-    border-bottom:1px solid #eceff3; 
+  background:#fff; 
+  border-bottom:1px solid #eceff3; 
 }
 
 
@@ -70,9 +91,17 @@
   align-items:center;
   column-gap:24px;
 }
-.logo img{ display:block; height:70%; width:auto; }
+
+
+.logo img{ 
+  display:block; 
+  height:70%; 
+  width:auto; 
+}
+
 
 /* Nav */
+
 
 .primary-nav ul{
   display:flex;
@@ -83,32 +112,52 @@
   margin:0;
   padding:0;
 }
+
+
 .primary-nav a{
   text-decoration:none;
   color:var(--nav-text);
   font-weight:600;
   font-size:16px;
 }
-.primary-nav a:hover{ color:var(--link-hover); }
+
+
+.primary-nav a:hover{ 
+  color:var(--link-hover); 
+}
+
 
 /* tiny down-carets (static) */
+
+
 .has-caret > a::after{
   content:"\25BE";
   margin-left:6px;
   font-size:.8em;
 }
 
+
 /* Slight emphasis for the CTA */
-.primary-nav a.cta{ font-weight:700; }
+
+
+.primary-nav a.cta{ 
+  font-weight:700; 
+}
+
 
 /* Responsive niceties */
+
+
 @media (max-width:900px){
   .logo img{ justify-self: center;}
   .mainbar-inner{ justify-content: center; }
   .primary-nav ul{ gap:16px; }
 }
+
+
 @media (max-width:720px){
   .logo img{ justify-self: center;}
   .mainbar-inner{ justify-content: center; padding-left: 1rem; grid-template-columns:1fr; row-gap:12px; }
   .primary-nav ul{ justify-content:center; padding-left: 1rem; flex-wrap:wrap; margin-bottom: 2rem;}
 }
+
