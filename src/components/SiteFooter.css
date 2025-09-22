@@ -20,6 +20,7 @@
     letter-spacing: .2px;
 }
 
+
 .contact-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -35,6 +36,7 @@
     margin-bottom: 6px;
 }
 
+
 .phone {
     display: inline-block;
     color: #fff;
@@ -44,9 +46,11 @@
     margin-bottom: 16px;
 }
 
+
 .phone:hover {
     text-decoration: underline;
 }
+
 
 .address {
     margin-top: 12px;
@@ -62,6 +66,7 @@
     margin-top: 18px;
 }
 
+
 .social a {
     width: 32px;
     height: 32px;
@@ -74,27 +79,33 @@
     font-size: 14px;
 }
 
+
 .social a.ig {
     background: #e1306c;
 }
+
 
 .social a.fb {
     background: #3b5998;
 }
 
+
 .social a.yt {
     background: #ff0000;
 }
 
+
 .social a.yelp {
     background: #af0606;
 }
+
 
 .social a.houzz {
     background: #7ac943;
     color: #0a0a0a;
     font-weight: 800;
 }
+
 
 .social a.pin {
     background: #bd081c;
@@ -115,6 +126,7 @@
     align-items: start;
 }
 
+
 .section-label {
     text-transform: uppercase;
     letter-spacing: .18em;
@@ -122,6 +134,7 @@
     color: #b8c2cc;
     margin-bottom: 12px;
 }
+
 
 .about p {
     margin: 0;
@@ -138,10 +151,12 @@
     gap: 10px;
 }
 
+
 .nav-col a {
     color: #e9ecef;
     text-decoration: none;
 }
+
 
 .nav-col a:hover {
     text-decoration: underline;
@@ -154,6 +169,7 @@
     align-items: center;
 }
 
+
 .youtube-pill {
     display: flex;
     align-items: center;
@@ -164,10 +180,12 @@
     color: #fff;
 }
 
+
 .youtube-pill .play {
     font-size: 14px;
     line-height: 1;
 }
+
 
 .youtube-pill .yt-label {
     font-weight: 700;
@@ -189,8 +207,10 @@
     }
 }
 
+
 @media (max-width: 520px) {
     .links-grid {
         grid-template-columns: 1fr;
     }
 }
+
