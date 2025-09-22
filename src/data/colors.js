@@ -142,6 +142,17 @@ name: "Worldly Gray",
 image: "/colors/Worldly Gray.png",
 driveUrl: "https://drive.google.com/file/d/13acraMADhZ69TlLoQkyB10azGdHXDL69/view?usp=sharing",
 },
+
+
+    /* Harbor Gray - rgb: 199, 199, 194 */
+
+    
+{
+id: "Harbor Gray",
+name: "Harbor Gray",
+image: "/colors/Harbor Gray.png",
+driveUrl: "https://drive.google.com/file/d/1havboN0EIWXHwxyMAXUnFEwlUDcRMVDY/view?usp=sharing",
+},
 ];
 
 
