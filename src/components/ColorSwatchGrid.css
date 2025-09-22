@@ -95,7 +95,7 @@ height: 141%;
   background: rgba(0,0,0,.6);
   display: grid;
   place-items: center;
-  z-index: 999;
+  z-index: 1001;
   padding: 16px;
 }
 
@@ -186,17 +186,15 @@ height: 141%;
 
 @media screen and (max-width: 900px) {
   .swatch-wrapper { padding-top: 13rem;}
-  .gd-modal{ padding-top: 22%;}
 }
 
 
 @media screen and (max-width: 720px) {
   .swatch-wrapper { padding-top: 2rem;}  
-  .gd-modal{ padding-top: 8%;}
 }
 
 
-@media screen and (max-width: 590px) {
+/* @media screen and (max-width: 590px) {
   .gd-modal{ padding-top: 8%;}
 }
-
+ */
