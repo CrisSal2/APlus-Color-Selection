@@ -191,7 +191,7 @@ height: 141%;
 
 
 @media screen and (max-width: 720px) {
-  .swatch-wrapper { padding-top: 20rem;}  
+  .swatch-wrapper { padding-top: 2rem;}  
   .gd-modal{ padding-top: 28%;}
 }
 
