@@ -13,7 +13,7 @@ driveUrl: "https://drive.google.com/file/d/1ComxoQKV-dvCdvww2R9CFXh1iyKJJdAI/vie
 
 
     /* Extra White - rgb: 237, 238, 233 */
-    
+
 
 {
 id: "Extra White",
@@ -25,7 +25,7 @@ driveUrl: "https://drive.google.com/file/d/15OUzyukwbdQ2RRv9eiKKEcWn0oolmuCH/vie
 
     /* Straight White - rgb: 247, 247, 241 */
 
-    
+
 {
 id: "Straight White",
 name: "Straight White",
@@ -124,7 +124,7 @@ driveUrl: "https://drive.google.com/file/d/1XdJcaRVx4DrVvFVRUDd2zKjXzPeVbM5k/vie
 
     /* Accessible Beige - rgb: 209, 199, 184 */
 
-    
+
 {
 id: "Accessible Beige",
 name: "Accessible Beige",
@@ -135,7 +135,7 @@ driveUrl: "https://drive.google.com/file/d/1xwRiEoLZAphQPkZlbppeSIvHo26CprpD/vie
 
     /* Shiitake - rgb: 200, 188, 171 */
 
-    
+
 {
 id: "Shiitake",
 name: "Shiitake",
@@ -146,7 +146,7 @@ driveUrl: "https://drive.google.com/file/d/1DTvwn2vFTW5048p1bT42XBrfTsHsYcIh/vie
 
     /* Song Thrush - rgb: 175, 152, 127 */
 
-    
+
 {
 id: "Song Thrush",
 name: "Song Thrush",
@@ -157,7 +157,7 @@ driveUrl: "https://drive.google.com/file/d/1HKEax4VTEvOh7j-KwWYDR01Emp10vkhp/vie
 
     /* Worldly Gray - rgb: 206, 198, 187 */
 
-    
+
 {
 id: "Worldly Gray",
 name: "Worldly Gray",
@@ -168,7 +168,7 @@ driveUrl: "https://drive.google.com/file/d/13acraMADhZ69TlLoQkyB10azGdHXDL69/vie
 
     /* Harbor Gray - rgb: 199, 199, 194 */
 
-    
+
 {
 id: "Harbor Gray",
 name: "Harbor Gray",
@@ -179,7 +179,7 @@ driveUrl: "https://drive.google.com/file/d/1havboN0EIWXHwxyMAXUnFEwlUDcRMVDY/vie
 
     /* Essential Gray - rgb: 188, 184, 182 */
 
-    
+
 {
 id: "Essential Gray",
 name: "Essential Gray",
@@ -190,7 +190,7 @@ driveUrl: "https://drive.google.com/file/d/1Ts2m3ijN8fypSUPBHj6NJtNMF0vHzWin/vie
 
     /* Elephant's Breath - rgb: 199, 190, 179 */
 
-    
+
 {
 id: "Elephant's Breath",
 name: "Elephant's Breath",
@@ -201,7 +201,7 @@ driveUrl: "https://drive.google.com/file/d/1iEAZX9kbP48GNEYIIBUbvo1DqCD_8rDj/vie
 
     /* Mindful Gray - rgb: 188, 183, 173 */
 
-    
+
 {
 id: "Mindful Gray",
 name: "Mindful Gray",
@@ -212,7 +212,7 @@ driveUrl: "https://drive.google.com/file/d/1O6NxVDoyxLx1eIMJpViZdkbU-pRSRt9S/vie
 
     /* Silver Spring DRE - rgb: 176, 176, 176 */
 
-    
+
 {
 id: "Silver Spring DRE",
 name: "Silver Spring DRE",
@@ -223,7 +223,7 @@ driveUrl: "https://drive.google.com/file/d/1pkrtd8frR8kfsVKPf6gCqgmqa0UI5la7/vie
 
     /* Sage Green - rgb: 172, 173, 151 */
 
-    
+
 {
 id: "Sage Green",
 name: "Sage Green",
@@ -234,7 +234,7 @@ driveUrl: "https://drive.google.com/file/d/1QSD5medm7UHlg0kKKvGiXfgR0O745pjA/vie
 
     /* Evergreen Fog V3 - rgb: 149, 151, 138 */
 
-    
+
 {
 id: "Evergreen Fog V3",
 name: "Evergreen Fog V3",
@@ -245,7 +245,7 @@ driveUrl: "https://drive.google.com/file/d/1A_HDqA0lXnOcMVd3f2xlcfk-nZTiCOi2/vie
 
     /* Galveston Gray - rgb: 153, 149, 140 */
 
-    
+
 {
 id: "Galveston Gray",
 name: "Galveston Gray",
@@ -256,7 +256,7 @@ driveUrl: "https://drive.google.com/file/d/1schNMQwvyXSv6bIH-beEefIX_y1muR5m/vie
 
     /* Grizzle Gray - rgb: 99, 101, 98 */
 
-    
+
 {
 id: "Grizzle Gray",
 name: "Grizzle Gray",
@@ -267,7 +267,7 @@ driveUrl: "https://drive.google.com/file/d/15e5gmvtuVaHYCHkfJY4C54R0bmGK9nTv/vie
 
     /* Cheating Heart - rgb: 75, 77, 79 */
 
-    
+
 {
 id: "Cheating Heart",
 name: "Cheating Heart",
@@ -278,7 +278,7 @@ driveUrl: "https://drive.google.com/file/d/1qF9cejJzeBpZ2p71FLN5yDBQlkBFb-p7/vie
 
     /* Cyberspace - rgb: 68, 72, 77 */
 
-    
+
 {
 id: "Cyberspace",
 name: "Cyberspace",
@@ -289,13 +289,101 @@ driveUrl: "https://drive.google.com/file/d/1oeZcK-4R1EZGtKdeG5vUYSg2pMVpDFAr/vie
 
     /* Iron Ore - rgb: 68, 69, 67 */
 
-    
+
 {
 id: "Iron Ore",
 name: "Iron Ore",
 image: "/colors/Iron Ore.png",
 driveUrl: "https://drive.google.com/file/d/1Q2G0gS39P5E15bxp1tcyTZWAzFdNbr8S/view?usp=sharing",
 },
+
+
+    /* Railings - rgb: 69, 73, 76 */
+
+
+{
+id: "Railings",
+name: "Railings",
+image: "/colors/Railings.png",
+driveUrl: "https://drive.google.com/file/d/1Vn57NzgH71Pnw1M5L9zxszvP4EbOnz5u/view?usp=sharing",
+},
+
+
+    /* Black Of Night - rgb: 50, 54, 57 */
+
+
+{
+id: "Black Of Night",
+name: "Black Of Night",
+image: "/colors/Black Of Night.png",
+driveUrl: "https://drive.google.com/file/d/1IeShr2WHoQ0bjFyY3jo27e0Q8mK68N3K/view?usp=sharing",
+},
+
+
+    /* Van Courtland Blue - rgb: 134, 152, 158 */
+
+
+{
+id: "Van Courtland Blue",
+name: "Van Courtland Blue",
+image: "/colors/Van Courtland Blue.png",
+driveUrl: "https://drive.google.com/file/d/1FsQYTflZPfSxlyrW2TO0wrm7E7hswAEk/view?usp=sharing",
+},
+
+
+    /* Sea Serpent - rgb: 62, 75, 84 */
+
+
+{
+id: "Sea Serpent",
+name: "Sea Serpent",
+image: "/colors/Sea Serpent.png",
+driveUrl: "https://drive.google.com/file/d/1SUG3mqje34KvN_0qp6tzzz29TKUkhQd7/view?usp=sharing",
+},
+
+
+    /* Hale Navy - rgb: 67, 75, 86 */
+
+
+{
+id: "Hale Navy",
+name: "Hale Navy",
+image: "/colors/Hale Navy.png",
+driveUrl: "https://drive.google.com/file/d/1De7EaUk2Elp7RwwvPRsSvRi054XTzDmY/view?usp=sharing",
+},
+
+
+    /* In the Navy - rgb: 40, 56, 73 */
+
+
+{
+id: "In the Navy",
+name: "In the Navy",
+image: "/colors/In the Navy.png",
+driveUrl: "https://drive.google.com/file/d/1sbKryzS875m5u2ICenYH0lqZIHuTOgUr/view?usp=sharing",
+},
+
+
+    /* Anchors Aweigh - rgb: 43, 52, 65 */
+
+
+{
+id: "Anchors Aweigh",
+name: "Anchors Aweigh",
+image: "/colors/Anchors Aweigh.png",
+driveUrl: "https://drive.google.com/file/d/16d3ylfHBw1DK4TcS45cfBmkGTa2LB9iJ/view?usp=sharing",
+},
+
+
+    /* Finish - Wood - rgb: 000, 000, 000 */
+
+
+/* {
+id: "Finish - Wood",
+name: "Finish - Wood",
+image: "/colors/Finish - Wood.png",
+driveUrl: "https://drive.google.com/",
+}, */
 ];
 
 
@@ -307,7 +395,7 @@ driveUrl: "https://drive.google.com/file/d/1Q2G0gS39P5E15bxp1tcyTZWAzFdNbr8S/vie
 
     /* Finish - Wood - rgb: 000, 000, 000 */
 
-    
+
 /* {
 id: "Finish - Wood",
 name: "Finish - Wood",
@@ -345,7 +433,7 @@ driveUrl: "https://drive.google.com/file/d/1kup1LQ4pFkj5qzfQfJEoAvq15rEaTAYx/vie
 
     /* Manganese 25 - Walnut */
 
-    
+
 /* {
 id: "Manganese 25 - Walnut",
 name: "Manganese 25 - Walnut",
