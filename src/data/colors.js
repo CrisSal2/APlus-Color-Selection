@@ -177,7 +177,7 @@ driveUrl: "https://drive.google.com/file/d/1iEAZX9kbP48GNEYIIBUbvo1DqCD_8rDj/vie
 },
 
 
-    /* Mindful Gray - rgb: 000, 000, 000 */
+    /* Mindful Gray - rgb: 188, 183, 173 */
 
     
 {
@@ -196,6 +196,28 @@ id: "Silver Spring DRE",
 name: "Silver Spring DRE",
 image: "/colors/Silver Spring DRE.png",
 driveUrl: "https://drive.google.com/file/d/1pkrtd8frR8kfsVKPf6gCqgmqa0UI5la7/view?usp=sharing",
+},
+
+
+    /* Sage Green - rgb: 172, 173, 151 */
+
+    
+{
+id: "Sage Green",
+name: "Sage Green",
+image: "/colors/Sage Green.png",
+driveUrl: "https://drive.google.com/file/d/1QSD5medm7UHlg0kKKvGiXfgR0O745pjA/view?usp=sharing",
+},
+
+
+    /* Evergreen Fog V3 - rgb: 149, 151, 138 */
+
+    
+{
+id: "Evergreen Fog V3",
+name: "Evergreen Fog V3",
+image: "/colors/Evergreen Fog V3.png",
+driveUrl: "https://drive.google.com/file/d/1A_HDqA0lXnOcMVd3f2xlcfk-nZTiCOi2/view?usp=sharing",
 },
 ];
 
