@@ -133,6 +133,28 @@ driveUrl: "https://drive.google.com/file/d/1xwRiEoLZAphQPkZlbppeSIvHo26CprpD/vie
 },
 
 
+    /* Shiitake - rgb: 200, 188, 171 */
+
+    
+{
+id: "Shiitake",
+name: "Shiitake",
+image: "/colors/Shiitake.png",
+driveUrl: "https://drive.google.com/file/d/1DTvwn2vFTW5048p1bT42XBrfTsHsYcIh/view?usp=sharing",
+},
+
+
+    /* Song Thrush - rgb: 175, 152, 127 */
+
+    
+{
+id: "Song Thrush",
+name: "Song Thrush",
+image: "/colors/Song Thrush.png",
+driveUrl: "https://drive.google.com/file/d/1HKEax4VTEvOh7j-KwWYDR01Emp10vkhp/view?usp=sharing",
+},
+
+
     /* Worldly Gray - rgb: 206, 198, 187 */
 
     
@@ -240,6 +262,39 @@ id: "Grizzle Gray",
 name: "Grizzle Gray",
 image: "/colors/Grizzle Gray.png",
 driveUrl: "https://drive.google.com/file/d/15e5gmvtuVaHYCHkfJY4C54R0bmGK9nTv/view?usp=sharing",
+},
+
+
+    /* Cheating Heart - rgb: 75, 77, 79 */
+
+    
+{
+id: "Cheating Heart",
+name: "Cheating Heart",
+image: "/colors/Cheating Heart.png",
+driveUrl: "https://drive.google.com/file/d/1qF9cejJzeBpZ2p71FLN5yDBQlkBFb-p7/view?usp=sharing",
+},
+
+
+    /* Cyberspace - rgb: 68, 72, 77 */
+
+    
+{
+id: "Cyberspace",
+name: "Cyberspace",
+image: "/colors/Cyberspace.png",
+driveUrl: "https://drive.google.com/file/d/1oeZcK-4R1EZGtKdeG5vUYSg2pMVpDFAr/view?usp=sharing",
+},
+
+
+    /* Iron Ore - rgb: 68, 69, 67 */
+
+    
+{
+id: "Iron Ore",
+name: "Iron Ore",
+image: "/colors/Iron Ore.png",
+driveUrl: "https://drive.google.com/file/d/1Q2G0gS39P5E15bxp1tcyTZWAzFdNbr8S/view?usp=sharing",
 },
 ];
 
