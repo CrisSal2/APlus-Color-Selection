@@ -232,7 +232,7 @@ driveUrl: "https://drive.google.com/file/d/1schNMQwvyXSv6bIH-beEefIX_y1muR5m/vie
 },
 
 
-    /* Grizzle Gray - rgb: 000, 000, 000 */
+    /* Grizzle Gray - rgb: 99, 101, 98 */
 
     
 {
