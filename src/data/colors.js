@@ -219,6 +219,28 @@ name: "Evergreen Fog V3",
 image: "/colors/Evergreen Fog V3.png",
 driveUrl: "https://drive.google.com/file/d/1A_HDqA0lXnOcMVd3f2xlcfk-nZTiCOi2/view?usp=sharing",
 },
+
+
+    /* Galveston Gray - rgb: 153, 149, 140 */
+
+    
+{
+id: "Galveston Gray",
+name: "Galveston Gray",
+image: "/colors/Galveston Gray.png",
+driveUrl: "https://drive.google.com/file/d/1schNMQwvyXSv6bIH-beEefIX_y1muR5m/view?usp=sharing",
+},
+
+
+    /* Grizzle Gray - rgb: 000, 000, 000 */
+
+    
+{
+id: "Grizzle Gray",
+name: "Grizzle Gray",
+image: "/colors/Grizzle Gray.png",
+driveUrl: "https://drive.google.com/file/d/15e5gmvtuVaHYCHkfJY4C54R0bmGK9nTv/view?usp=sharing",
+},
 ];
 
 
