@@ -153,6 +153,50 @@ name: "Harbor Gray",
 image: "/colors/Harbor Gray.png",
 driveUrl: "https://drive.google.com/file/d/1havboN0EIWXHwxyMAXUnFEwlUDcRMVDY/view?usp=sharing",
 },
+
+
+    /* Essential Gray - rgb: 188, 184, 182 */
+
+    
+{
+id: "Essential Gray",
+name: "Essential Gray",
+image: "/colors/Essential Gray.png",
+driveUrl: "https://drive.google.com/file/d/1Ts2m3ijN8fypSUPBHj6NJtNMF0vHzWin/view?usp=sharing",
+},
+
+
+    /* Elephant's Breath - rgb: 199, 190, 179 */
+
+    
+{
+id: "Elephant's Breath",
+name: "Elephant's Breath",
+image: "/colors/Elephant's Breath.png",
+driveUrl: "https://drive.google.com/file/d/1iEAZX9kbP48GNEYIIBUbvo1DqCD_8rDj/view?usp=sharing",
+},
+
+
+    /* Mindful Gray - rgb: 000, 000, 000 */
+
+    
+{
+id: "Mindful Gray",
+name: "Mindful Gray",
+image: "/colors/Mindful Gray.png",
+driveUrl: "https://drive.google.com/file/d/1O6NxVDoyxLx1eIMJpViZdkbU-pRSRt9S/view?usp=sharing",
+},
+
+
+    /* Silver Spring DRE - rgb: 176, 176, 176 */
+
+    
+{
+id: "Silver Spring DRE",
+name: "Silver Spring DRE",
+image: "/colors/Silver Spring DRE.png",
+driveUrl: "https://drive.google.com/file/d/1pkrtd8frR8kfsVKPf6gCqgmqa0UI5la7/view?usp=sharing",
+},
 ];
 
 
@@ -168,7 +212,7 @@ driveUrl: "https://drive.google.com/file/d/1havboN0EIWXHwxyMAXUnFEwlUDcRMVDY/vie
 /* {
 id: "Finish - Wood",
 name: "Finish - Wood",
-image: "/colors/Finish - Wood.jpg",
+image: "/colors/Finish - Wood.png",
 driveUrl: "https://drive.google.com/",
 }, */
 
