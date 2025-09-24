@@ -6,7 +6,7 @@ export const COLORS = [
 
 {
 id: "Pure White",
-name: "Pure White",
+name: "• Pure White\n• Maple",
 image: "/colors/Pure White.png",
 driveUrl: "https://drive.google.com/file/d/1ComxoQKV-dvCdvww2R9CFXh1iyKJJdAI/view?usp=sharing",
 },
@@ -17,7 +17,7 @@ driveUrl: "https://drive.google.com/file/d/1ComxoQKV-dvCdvww2R9CFXh1iyKJJdAI/vie
 
 {
 id: "Extra White",
-name: "Extra White",
+name: "• Extra White\n• Maple",
 image: "/colors/Extra White.png",
 driveUrl: "https://drive.google.com/file/d/15OUzyukwbdQ2RRv9eiKKEcWn0oolmuCH/view?usp=sharing",
 },
@@ -28,7 +28,7 @@ driveUrl: "https://drive.google.com/file/d/15OUzyukwbdQ2RRv9eiKKEcWn0oolmuCH/vie
 
 {
 id: "Straight White",
-name: "Straight White",
+name: "• Straight White\n• Maple",
 image: "/colors/Straight White.png",
 driveUrl: "https://drive.google.com/file/d/1N3w-iRGWjOYnQ6xt_18W42kQhyT5V6ut/view?usp=sharing",
 },
@@ -39,7 +39,7 @@ driveUrl: "https://drive.google.com/file/d/1N3w-iRGWjOYnQ6xt_18W42kQhyT5V6ut/vie
 
 {
 id: "Swiss Coffeee",
-name: "Swiss Coffee",
+name: "• Swiss Coffee\n• Maple",
 image: "/colors/Swiss Coffee.png",
 driveUrl: "https://drive.google.com/file/d/1BymnAq4XUv-ALwDCFYpGMnB_pJzJ3d2i/view?usp=sharing",
 },
@@ -50,7 +50,7 @@ driveUrl: "https://drive.google.com/file/d/1BymnAq4XUv-ALwDCFYpGMnB_pJzJ3d2i/vie
 
 {
 id: "Marshmallow",
-name: "Marshmallow",
+name: "• Marshmallow\n• Maple",
 image: "/colors/Marshmallow.png",
 driveUrl: "https://drive.google.com/file/d/16WYEe1FEV-x4QXAP2pFntyJLQMn77kRf/view?usp=sharing",
 },
@@ -61,7 +61,7 @@ driveUrl: "https://drive.google.com/file/d/16WYEe1FEV-x4QXAP2pFntyJLQMn77kRf/vie
 
 {
 id: "Creamy",
-name: "Creamy",
+name: "• Creamy\n• Maple",
 image: "/colors/Creamy.png",
 driveUrl: "https://drive.google.com/file/d/1ojbla6Q1yH8tqwiroPjY_QvP4MUX0UZW/view?usp=sharing",
 },
@@ -72,7 +72,7 @@ driveUrl: "https://drive.google.com/file/d/1ojbla6Q1yH8tqwiroPjY_QvP4MUX0UZW/vie
 
 {
 id: "Alabaster",
-name: "Alabaster",
+name: "• Alabaster\n• Maple",
 image: "/colors/Alabaster.png",
 driveUrl: "https://drive.google.com/file/d/1PIwN3pg4DUth7rjSfUT9YoFo8tArAax_/view?usp=sharing",
 },
@@ -83,7 +83,7 @@ driveUrl: "https://drive.google.com/file/d/1PIwN3pg4DUth7rjSfUT9YoFo8tArAax_/vie
 
 {
 id: "Whisper White",
-name: "Whisper White",
+name: "• Whisper White\n• Maple",
 image: "/colors/Whisper White.png",
 driveUrl: "https://drive.google.com/file/d/1UDVO2ahnxv5VkjQYRrYdHaRr6PpDKIKN/view?usp=sharing",
 },
@@ -94,7 +94,7 @@ driveUrl: "https://drive.google.com/file/d/1UDVO2ahnxv5VkjQYRrYdHaRr6PpDKIKN/vie
 
 {
 id: "Mocha Base",
-name: "Mocha Base",
+name: "• Mocha Base\n• Maple",
 image: "/colors/Mocha Base.png",
 driveUrl: "https://drive.google.com/file/d/1oSzh3QHfGxmIiJA3ImA1xViyyoyHqt9E/view?usp=sharing",
 },
@@ -105,7 +105,7 @@ driveUrl: "https://drive.google.com/file/d/1oSzh3QHfGxmIiJA3ImA1xViyyoyHqt9E/vie
 
 {
 id: "Shoji White",
-name: "Shoji White",
+name: "• Shoji White\n• Maple",
 image: "/colors/Shoji White.png",
 driveUrl: "https://drive.google.com/file/d/1LrglKGVDfD02kIje_LetN7wnR-UQuNC6/view?usp=sharing",
 },
@@ -116,7 +116,7 @@ driveUrl: "https://drive.google.com/file/d/1LrglKGVDfD02kIje_LetN7wnR-UQuNC6/vie
 
 {
 id: "Antique White",
-name: "Antique White",
+name: "• Antique White\n• Maple",
 image: "/colors/Antique White.png",
 driveUrl: "https://drive.google.com/file/d/1XdJcaRVx4DrVvFVRUDd2zKjXzPeVbM5k/view?usp=sharing",
 },
@@ -127,7 +127,7 @@ driveUrl: "https://drive.google.com/file/d/1XdJcaRVx4DrVvFVRUDd2zKjXzPeVbM5k/vie
 
 {
 id: "Accessible Beige",
-name: "Accessible Beige",
+name: "• Accessible Beige\n• Maple",
 image: "/colors/Accessible Beige.png",
 driveUrl: "https://drive.google.com/file/d/1xwRiEoLZAphQPkZlbppeSIvHo26CprpD/view?usp=sharing",
 },
@@ -138,7 +138,7 @@ driveUrl: "https://drive.google.com/file/d/1xwRiEoLZAphQPkZlbppeSIvHo26CprpD/vie
 
 {
 id: "Shiitake",
-name: "Shiitake",
+name: "• Shiitake\n• Maple",
 image: "/colors/Shiitake.png",
 driveUrl: "https://drive.google.com/file/d/1DTvwn2vFTW5048p1bT42XBrfTsHsYcIh/view?usp=sharing",
 },
@@ -149,7 +149,7 @@ driveUrl: "https://drive.google.com/file/d/1DTvwn2vFTW5048p1bT42XBrfTsHsYcIh/vie
 
 {
 id: "Song Thrush",
-name: "Song Thrush",
+name: "• Song Thrush\n• Maple",
 image: "/colors/Song Thrush.png",
 driveUrl: "https://drive.google.com/file/d/1HKEax4VTEvOh7j-KwWYDR01Emp10vkhp/view?usp=sharing",
 },
@@ -160,7 +160,7 @@ driveUrl: "https://drive.google.com/file/d/1HKEax4VTEvOh7j-KwWYDR01Emp10vkhp/vie
 
 {
 id: "Worldly Gray",
-name: "Worldly Gray",
+name: "• Worldly Gray\n• Maple",
 image: "/colors/Worldly Gray.png",
 driveUrl: "https://drive.google.com/file/d/13acraMADhZ69TlLoQkyB10azGdHXDL69/view?usp=sharing",
 },
@@ -171,9 +171,20 @@ driveUrl: "https://drive.google.com/file/d/13acraMADhZ69TlLoQkyB10azGdHXDL69/vie
 
 {
 id: "Harbor Gray",
-name: "Harbor Gray",
+name: "• Harbor Gray\n• Maple",
 image: "/colors/Harbor Gray.png",
 driveUrl: "https://drive.google.com/file/d/1havboN0EIWXHwxyMAXUnFEwlUDcRMVDY/view?usp=sharing",
+},
+
+
+    /* Anew Gray - rgb: 191, 182, 170 */
+
+
+{
+id: "Anew Gray",
+name: "• Anew Gray\n• Maple",
+image: "/colors/Anew Gray.png",
+driveUrl: "https://drive.google.com/file/d/1aMq3QWDH8c_EAHFfupmdqX1hDWcWvvJc/view?usp=sharing",
 },
 
 
@@ -182,7 +193,7 @@ driveUrl: "https://drive.google.com/file/d/1havboN0EIWXHwxyMAXUnFEwlUDcRMVDY/vie
 
 {
 id: "Essential Gray",
-name: "Essential Gray",
+name: "• Essential Gray\n• Maple",
 image: "/colors/Essential Gray.png",
 driveUrl: "https://drive.google.com/file/d/1Ts2m3ijN8fypSUPBHj6NJtNMF0vHzWin/view?usp=sharing",
 },
@@ -193,7 +204,7 @@ driveUrl: "https://drive.google.com/file/d/1Ts2m3ijN8fypSUPBHj6NJtNMF0vHzWin/vie
 
 {
 id: "Elephant's Breath",
-name: "Elephant's Breath",
+name: "• Elephant's Breath\n• Maple",
 image: "/colors/Elephant's Breath.png",
 driveUrl: "https://drive.google.com/file/d/1iEAZX9kbP48GNEYIIBUbvo1DqCD_8rDj/view?usp=sharing",
 },
@@ -204,7 +215,7 @@ driveUrl: "https://drive.google.com/file/d/1iEAZX9kbP48GNEYIIBUbvo1DqCD_8rDj/vie
 
 {
 id: "Mindful Gray",
-name: "Mindful Gray",
+name: "• Mindful Gray\n• Maple",
 image: "/colors/Mindful Gray.png",
 driveUrl: "https://drive.google.com/file/d/1O6NxVDoyxLx1eIMJpViZdkbU-pRSRt9S/view?usp=sharing",
 },
@@ -215,7 +226,7 @@ driveUrl: "https://drive.google.com/file/d/1O6NxVDoyxLx1eIMJpViZdkbU-pRSRt9S/vie
 
 {
 id: "Silver Spring DRE",
-name: "Silver Spring DRE",
+name: "• Silver Spring DRE\n• Maple",
 image: "/colors/Silver Spring DRE.png",
 driveUrl: "https://drive.google.com/file/d/1pkrtd8frR8kfsVKPf6gCqgmqa0UI5la7/view?usp=sharing",
 },
@@ -226,7 +237,7 @@ driveUrl: "https://drive.google.com/file/d/1pkrtd8frR8kfsVKPf6gCqgmqa0UI5la7/vie
 
 {
 id: "Sage Green",
-name: "Sage Green",
+name: "• Sage Green\n• Maple",
 image: "/colors/Sage Green.png",
 driveUrl: "https://drive.google.com/file/d/1QSD5medm7UHlg0kKKvGiXfgR0O745pjA/view?usp=sharing",
 },
@@ -237,7 +248,7 @@ driveUrl: "https://drive.google.com/file/d/1QSD5medm7UHlg0kKKvGiXfgR0O745pjA/vie
 
 {
 id: "Evergreen Fog V3",
-name: "Evergreen Fog V3",
+name: "• Evergreen Fog V3\n• Maple",
 image: "/colors/Evergreen Fog V3.png",
 driveUrl: "https://drive.google.com/file/d/1A_HDqA0lXnOcMVd3f2xlcfk-nZTiCOi2/view?usp=sharing",
 },
@@ -248,7 +259,7 @@ driveUrl: "https://drive.google.com/file/d/1A_HDqA0lXnOcMVd3f2xlcfk-nZTiCOi2/vie
 
 {
 id: "Galveston Gray",
-name: "Galveston Gray",
+name: "• Galveston Gray\n• Maple",
 image: "/colors/Galveston Gray.png",
 driveUrl: "https://drive.google.com/file/d/1schNMQwvyXSv6bIH-beEefIX_y1muR5m/view?usp=sharing",
 },
@@ -259,7 +270,7 @@ driveUrl: "https://drive.google.com/file/d/1schNMQwvyXSv6bIH-beEefIX_y1muR5m/vie
 
 {
 id: "Grizzle Gray",
-name: "Grizzle Gray",
+name: "• Grizzle Gray\n• Maple",
 image: "/colors/Grizzle Gray.png",
 driveUrl: "https://drive.google.com/file/d/15e5gmvtuVaHYCHkfJY4C54R0bmGK9nTv/view?usp=sharing",
 },
@@ -270,7 +281,7 @@ driveUrl: "https://drive.google.com/file/d/15e5gmvtuVaHYCHkfJY4C54R0bmGK9nTv/vie
 
 {
 id: "Cheating Heart",
-name: "Cheating Heart",
+name: "• Cheating Heart\n• Maple",
 image: "/colors/Cheating Heart.png",
 driveUrl: "https://drive.google.com/file/d/1qF9cejJzeBpZ2p71FLN5yDBQlkBFb-p7/view?usp=sharing",
 },
@@ -281,7 +292,7 @@ driveUrl: "https://drive.google.com/file/d/1qF9cejJzeBpZ2p71FLN5yDBQlkBFb-p7/vie
 
 {
 id: "Cyberspace",
-name: "Cyberspace",
+name: "• Cyberspace\n• Maple",
 image: "/colors/Cyberspace.png",
 driveUrl: "https://drive.google.com/file/d/1oeZcK-4R1EZGtKdeG5vUYSg2pMVpDFAr/view?usp=sharing",
 },
@@ -292,7 +303,7 @@ driveUrl: "https://drive.google.com/file/d/1oeZcK-4R1EZGtKdeG5vUYSg2pMVpDFAr/vie
 
 {
 id: "Iron Ore",
-name: "Iron Ore",
+name: "• Iron Ore\n• Maple",
 image: "/colors/Iron Ore.png",
 driveUrl: "https://drive.google.com/file/d/1Q2G0gS39P5E15bxp1tcyTZWAzFdNbr8S/view?usp=sharing",
 },
@@ -303,7 +314,7 @@ driveUrl: "https://drive.google.com/file/d/1Q2G0gS39P5E15bxp1tcyTZWAzFdNbr8S/vie
 
 {
 id: "Railings",
-name: "Railings",
+name: "• Railings\n• Maple",
 image: "/colors/Railings.png",
 driveUrl: "https://drive.google.com/file/d/1Vn57NzgH71Pnw1M5L9zxszvP4EbOnz5u/view?usp=sharing",
 },
@@ -314,7 +325,7 @@ driveUrl: "https://drive.google.com/file/d/1Vn57NzgH71Pnw1M5L9zxszvP4EbOnz5u/vie
 
 {
 id: "Black Of Night",
-name: "Black Of Night",
+name: "• Black Of Night\n• Maple",
 image: "/colors/Black Of Night.png",
 driveUrl: "https://drive.google.com/file/d/1IeShr2WHoQ0bjFyY3jo27e0Q8mK68N3K/view?usp=sharing",
 },
@@ -325,7 +336,7 @@ driveUrl: "https://drive.google.com/file/d/1IeShr2WHoQ0bjFyY3jo27e0Q8mK68N3K/vie
 
 {
 id: "Van Courtland Blue",
-name: "Van Courtland Blue",
+name: "• Van Courtland Blue\n• Maple",
 image: "/colors/Van Courtland Blue.png",
 driveUrl: "https://drive.google.com/file/d/1FsQYTflZPfSxlyrW2TO0wrm7E7hswAEk/view?usp=sharing",
 },
@@ -336,7 +347,7 @@ driveUrl: "https://drive.google.com/file/d/1FsQYTflZPfSxlyrW2TO0wrm7E7hswAEk/vie
 
 {
 id: "Sea Serpent",
-name: "Sea Serpent",
+name: "• Sea Serpent\n• Maple",
 image: "/colors/Sea Serpent.png",
 driveUrl: "https://drive.google.com/file/d/1SUG3mqje34KvN_0qp6tzzz29TKUkhQd7/view?usp=sharing",
 },
@@ -347,7 +358,7 @@ driveUrl: "https://drive.google.com/file/d/1SUG3mqje34KvN_0qp6tzzz29TKUkhQd7/vie
 
 {
 id: "Hale Navy",
-name: "Hale Navy",
+name: "• Hale Navy\n• Maple",
 image: "/colors/Hale Navy.png",
 driveUrl: "https://drive.google.com/file/d/1De7EaUk2Elp7RwwvPRsSvRi054XTzDmY/view?usp=sharing",
 },
@@ -358,7 +369,7 @@ driveUrl: "https://drive.google.com/file/d/1De7EaUk2Elp7RwwvPRsSvRi054XTzDmY/vie
 
 {
 id: "In the Navy",
-name: "In the Navy",
+name: "• In the Navy\n• Maple",
 image: "/colors/In the Navy.png",
 driveUrl: "https://drive.google.com/file/d/1sbKryzS875m5u2ICenYH0lqZIHuTOgUr/view?usp=sharing",
 },
@@ -369,21 +380,21 @@ driveUrl: "https://drive.google.com/file/d/1sbKryzS875m5u2ICenYH0lqZIHuTOgUr/vie
 
 {
 id: "Anchors Aweigh",
-name: "Anchors Aweigh",
+name: "• Anchors Aweigh\n• Maple",
 image: "/colors/Anchors Aweigh.png",
 driveUrl: "https://drive.google.com/file/d/16d3ylfHBw1DK4TcS45cfBmkGTa2LB9iJ/view?usp=sharing",
 },
 
 
-    /* Finish - Wood - rgb: 000, 000, 000 */
+    /* Black - rgb: 40, 40, 40 */
 
 
-/* {
-id: "Finish - Wood",
-name: "Finish - Wood",
-image: "/colors/Finish - Wood.png",
-driveUrl: "https://drive.google.com/",
-}, */
+{
+id: "Black",
+name: "• Black\n• Maple",
+image: "/colors/Black.png",
+driveUrl: "https://drive.google.com/file/d/1qRDs2suLYir2vkewFAzkZRU3Eph4YTnT/view?usp=sharing",
+},
 ];
 
 
@@ -398,7 +409,7 @@ driveUrl: "https://drive.google.com/",
 
 /* {
 id: "Finish - Wood",
-name: "Finish - Wood",
+name: "• Finish\n• Maple",
 image: "/colors/Finish - Wood.png",
 driveUrl: "https://drive.google.com/",
 }, */

@@ -34,7 +34,7 @@ function getDrivePreviewUrl(url = "") {
       }
     }
   } catch (_) {
-  /* ignore */
+    /* ignore */
   }
   /* Fallback */
   return url;
@@ -85,7 +85,9 @@ export default function ColorSwatchGrid({ colors = [] }) {
             >
               <img src={c.image} alt={c.name} loading="lazy" width={120} height={120} />
             </button>
-            <div className="swatch-name" title={c.name}>{c.name}</div>
+            <div className="swatch-name" title={c.name}>
+              <p style={{ whiteSpace: "pre-line" }}>{c.name}</p>
+            </div>
           </li>
         ))}
       </ul>
@@ -120,7 +122,7 @@ export default function ColorSwatchGrid({ colors = [] }) {
 
 
 
-                {/********************************************* Not all links are Drive links right now *********************************************/}
+              {/********************************************* Not all links are Drive links right now *********************************************/}
 
 
 
