@@ -395,6 +395,72 @@ name: "• Black\n• Maple",
 image: "/colors/Black.png",
 driveUrl: "https://drive.google.com/file/d/1qRDs2suLYir2vkewFAzkZRU3Eph4YTnT/view?usp=sharing",
 },
+
+
+    /* Maple - Natural - Sheen: 20 */
+
+
+{
+id: "Natural - Maple",
+name: "• Natural\n• Maple",
+image: "/colors/Natural - Maple.jpeg",
+driveUrl: "https://drive.google.com/file/d/1q7RDSTwU-DyMdAShZSiUz-01gUhD4E_e/view?usp=sharing",
+},
+
+
+    /* Maple - Manganese 25% */
+
+
+{
+id: "Manganese 25 - Maple",
+name: "• Manganese 25%\n• Maple",
+image: "/colors/Manganese 25 - Maple.jpeg",
+driveUrl: "https://drive.google.com/file/d/1p-uIFxCWOonmNZBJbAbtmBRz7Y25nBur/view?usp=sharing",
+},
+
+
+    /* Maple - Manganese 50% */
+
+
+{
+id: "Manganese 50 - Maple",
+name: "• Manganese 50%\n• Maple",
+image: "/colors/Manganese 50 - Maple.jpeg",
+driveUrl: "https://drive.google.com/file/d/1e2ULnPxQaBSLTjZPL5HZMJhuPleK_PWI/view?usp=sharing",
+},
+
+
+    /* Maple - Manganese 100% */
+
+
+{
+id: "Manganese 100 - Maple",
+name: "• Manganese 100%\n• Maple",
+image: "/colors/Manganese 100 - Maple.jpg",
+driveUrl: "https://drive.google.com/file/d/12o7-utigNsRWZu6Y-MDEZgKCNc1enOnj/view?usp=sharing",
+},
+
+
+    /* Maple - Dark Manganese 50% */
+
+
+{
+id: "Dark Manganese 50 - Maple",
+name: "• Dark Manganese 50%\n• Maple",
+image: "/colors/Dark Manganese 50 - Maple.jpg",
+driveUrl: "https://drive.google.com/file/d/1H8kzeOAWeRpUj-gAelr0CavPsQnUDORm/view?usp=sharing",
+},
+
+
+    /* Dark Manganese 75 - Maple */
+
+
+{
+id: "Dark Manganese 75 - Wood",
+name: "• Dark Manganese 75%\n• Maple",
+image: "/colors/Dark Manganese 75 - Maple.jpeg",
+driveUrl: "https://drive.google.com/file/d/1hnbIZh0LRmLCKp12kLsU8Q2-XRSiENZ1/view?usp=sharing",
+},
 ];
 
 
@@ -410,44 +476,6 @@ driveUrl: "https://drive.google.com/file/d/1qRDs2suLYir2vkewFAzkZRU3Eph4YTnT/vie
 /* {
 id: "Finish - Wood",
 name: "• Finish\n• Maple",
-image: "/colors/Finish - Wood.png",
+image: "/colors/Finish - Wood.jpeg",
 driveUrl: "https://drive.google.com/",
-}, */
-
-
-
-
-
-
-
-
-
-
-
-
-
-/**************************************************** For Later Input ***************************************************/
-
-
-
-
-    /* Natural 10 - Rift Cut White Oak */
-
-
-/* {
-id: "Natural 10 - Rift Cut White Oak",
-name: "Natural 10 - Rift Cut White Oak",
-image: "/colors/Rift Cut White Oak - Natural 10.jpg",
-driveUrl: "https://drive.google.com/file/d/1kup1LQ4pFkj5qzfQfJEoAvq15rEaTAYx/view?usp=sharing",
-}, */
-
-
-    /* Manganese 25 - Walnut */
-
-
-/* {
-id: "Manganese 25 - Walnut",
-name: "Manganese 25 - Walnut",
-image: "/colors/Walnut Manganese 25.jpg",
-driveUrl: "https://drive.google.com/file/d/1T_I1uMr0L4FNtVS_A_pxaK7wM6lRv3iw/view?usp=sharing",
 }, */
