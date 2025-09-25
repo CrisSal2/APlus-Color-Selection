@@ -461,6 +461,72 @@ name: "• Dark Manganese 75%\n• Maple",
 image: "/colors/Dark Manganese 75 - Maple.jpeg",
 driveUrl: "https://drive.google.com/file/d/1hnbIZh0LRmLCKp12kLsU8Q2-XRSiENZ1/view?usp=sharing",
 },
+
+
+    /* Dark Manganese 100 - Maple */
+
+
+{
+id: "Dark Manganese 100 - Wood",
+name: "• Dark Manganese 100%\n• Maple",
+image: "/colors/Dark Manganese 100 - Maple.jpg",
+driveUrl: "https://drive.google.com/file/d/14Inn3x6dvt9pVwSpvR4NCNNv-GHpTKgz/view?usp=sharing",
+},
+
+
+    /* Espresso 75 - Maple */
+
+
+{
+id: "Espresso 75 - Maple",
+name: "• Espresso 75%\n• Maple",
+image: "/colors/Espresso 75 - Maple.jpg",
+driveUrl: "https://drive.google.com/file/d/1ofU57fyweiOyKbqq_cE73Fzhup6eu8kr/view?usp=sharing",
+},
+
+
+    /* Espresso 100 - Maple */
+
+
+{
+id: "Espresso 100 - Maple",
+name: "• Espresso 100%\n• Maple",
+image: "/colors/Espresso 100 - Maple.jpg",
+driveUrl: "https://drive.google.com/file/d/1HaakP08kII4HSu9SJ0AeV4QGTzasKrY6/view?usp=sharing",
+},
+
+
+    /* Enzo 10 - Maple */
+
+
+{
+id: "Enzo 10 - Maple",
+name: "• Enzo 10%\n• Maple",
+image: "/colors/Enzo 10 - Maple.jpeg",
+driveUrl: "https://drive.google.com/file/d/1q8_aGLiagcz6eLXTBtAfYjt2Tk49fWgU/view?usp=sharing",
+},
+
+
+    /* Enzo 50 - Maple */
+
+
+{
+id: "Enzo 50 - Maple",
+name: "• Enzo 50%\n• Maple",
+image: "/colors/Enzo 50 - Maple.jpeg",
+driveUrl: "https://drive.google.com/file/d/1SjZ6By8__slGA5tgz1ChauK-8HjooZ6m/view?usp=sharing",
+},
+
+
+    /* Finish - Wood - rgb: 000, 000, 000 */
+
+
+/* {
+id: "Finish - Wood",
+name: "• Finish\n• Maple",
+image: "/colors/Finish - Wood.jpeg",
+driveUrl: "https://drive.google.com/",
+}, */
 ];
 
 
