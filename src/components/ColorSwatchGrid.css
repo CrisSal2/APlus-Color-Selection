@@ -49,6 +49,15 @@ margin-right: auto;
   gap: 0.5rem; 
 }
 
+.swatch-name {
+  font-size: 0.875rem; 
+  text-align: center; 
+  color: #374151; 
+  font-weight: 500;
+  max-width: 140px;
+  word-wrap: break-word;
+}
+
 
 /* Circular preview */
 
