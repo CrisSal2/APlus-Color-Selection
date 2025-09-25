@@ -518,15 +518,26 @@ driveUrl: "https://drive.google.com/file/d/1SjZ6By8__slGA5tgz1ChauK-8HjooZ6m/vie
 },
 
 
-    /* Finish - Wood - rgb: 000, 000, 000 */
+    /* Enzo 75 - Maple */
 
 
-/* {
-id: "Finish - Wood",
-name: "• Finish\n• Maple",
-image: "/colors/Finish - Wood.jpeg",
-driveUrl: "https://drive.google.com/",
-}, */
+{
+id: "Enzo 75 - Maple",
+name: "• Enzo 75%\n• Maple",
+image: "/colors/Enzo 75 - Maple.jpeg",
+driveUrl: "https://drive.google.com/file/d/1iIOPjoFtDmMShqDTOzliKevio3DGdFxY/view?usp=sharing",
+},
+
+
+    /* Enzo 100 - Maple */
+
+
+{
+id: "Enzo 100 - Maple",
+name: "• Enzo 100%\n• Maple",
+image: "/colors/Enzo 100 - Maple.jpg",
+driveUrl: "https://drive.google.com/file/d/17C3TqJj8DHIDj3SYjBUwP65aDzq1ZcBS/view?usp=sharing",
+},
 ];
 
 
