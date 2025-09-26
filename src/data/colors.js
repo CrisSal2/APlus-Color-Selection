@@ -538,6 +538,226 @@ name: "• Enzo 100%\n• Maple",
 image: "/colors/Enzo 100 - Maple.jpg",
 driveUrl: "https://drive.google.com/file/d/17C3TqJj8DHIDj3SYjBUwP65aDzq1ZcBS/view?usp=sharing",
 },
+
+
+    /* Natural - Walnut */
+
+
+{
+id: "Natural - Walnut",
+name: "• Natural\n• Walnut",
+image: "/colors/Natural - Walnut.jpg",
+driveUrl: "https://drive.google.com/file/d/1XRDJZ9iOR-ve0Dn13cE64RjXYmS5ZtHy/view?usp=sharing",
+},
+
+
+    /* Gray Stain - Walnut */
+
+
+{
+id: "Gray Stain - Walnut",
+name: "• Gray Stain\n• Walnut",
+image: "/colors/Gray Stain - Walnut.jpeg",
+driveUrl: "https://drive.google.com/file/d/1PRAp1gnxOq-X0jiPiRS6OEIC-HJgwFWe/view?usp=sharing",
+},
+
+
+    /* Enzo 10 - Walnut */
+
+
+{
+id: "Enzo 10 - Walnut",
+name: "• Enzo 10%\n• Walnut",
+image: "/colors/Enzo 10 - Walnut.jpeg",
+driveUrl: "https://drive.google.com/file/d/1u4EsQftZVIDtg1NgzSO4zHXn3hCdCo5Y/view?usp=sharing",
+},
+
+
+    /* Enzo 5 - African Mahogany */
+
+
+{
+id: "Enzo 5 - Wood",
+name: "• Enzo 5%\n• African Mahogany",
+image: "/colors/Enzo 5 - African Mahogany.jpeg",
+driveUrl: "https://drive.google.com/file/d/1v08XntrhwhurrNDPXTXWCZvI3YKIHn6J/view?usp=sharing",
+},
+
+
+    /* Enzo 10 - African Mahogany */
+
+
+{
+id: "Enzo 10 - African Mahogany",
+name: "• Enzo 10%\n• African Mahogany",
+image: "/colors/Enzo 10 - African Mahogany.jpg",
+driveUrl: "https://drive.google.com/file/d/1q-M4RTvZXbqT5hfiRhx6HfemEjtbgwmF/view?usp=sharing",
+},
+
+
+    /* Enzo 15 - African Mahogany */
+
+
+{
+id: "Enzo 15 - African Mahogany",
+name: "• Enzo 15%\n• African Mahogany",
+image: "/colors/Enzo 15 - African Mahogany.jpg",
+driveUrl: "https://drive.google.com/file/d/1cBBbHiU9kedX4d1sxnS5IB17MC-6FXh-/view?usp=sharing",
+},
+
+
+    /* Enzo 25 - African Mahogany */
+
+
+{
+id: "Enzo 25 - African Mahogany",
+name: "• Enzo 25%\n• African Mahogany",
+image: "/colors/Enzo 25 - African Mahogany.jpg",
+driveUrl: "https://drive.google.com/file/d/1MP2DsGEOWm-1Dz3Yj8TjRj-CJUfV-qpx/view?usp=sharing",
+},
+
+
+    /* Enzo 100 - African Mahogany */
+
+
+{
+id: "Enzo 100 - African Mahogany",
+name: "• Enzo 100%\n• African Mahogany",
+image: "/colors/Enzo 100 - African Mahogany.jpg",
+driveUrl: "https://drive.google.com/file/d/1YLxrnfTx1y6ENecC4zgN4bujRo9e4b9k/view?usp=sharing",
+},
+
+
+    /* Natural 10 - African Mahogany */
+
+
+{
+id: "Natural 10 - African Mahogany",
+name: "• Natural 10%\n• African Mahogany",
+image: "/colors/Natural 10 - African Mahogany.jpg",
+driveUrl: "https://drive.google.com/file/d/1b0Bo7tX9K-34UYdCNYu58GVcjTydxRr7/view?usp=sharing",
+},
+
+
+    /* Dark Manganese 50 - African Mahogany */
+
+
+{
+id: "Dark Manganese 50 - African Mahogany",
+name: "• Dark Manganese 50%\n• African Mahogany",
+image: "/colors/Dark Manganese 50 - African Mahogany.jpg",
+driveUrl: "https://drive.google.com/file/d/15hp7MmnAuqG4sy7waeD8wYwnnyQH6FUX/view?usp=sharing",
+},
+
+
+    /* Manganese 25 - African Mahogany */
+
+
+{
+id: "Manganese 25 - African Mahogany",
+name: "• Manganese 25%\n• African Mahogany",
+image: "/colors/Manganese 25 - African Mahogany.jpg",
+driveUrl: "https://drive.google.com/file/d/1MB0v5Yw3BJvoRe0ZvfFEtTUthrdxhBEn/view?usp=sharing",
+},
+
+
+    /* Manganese 50 - African Mahogany */
+
+
+{
+id: "Manganese 50 - African Mahogany",
+name: "• Manganese 50%\n• African Mahogany",
+image: "/colors/Manganese 50 - African Mahogany.jpg",
+driveUrl: "https://drive.google.com/file/d/1SsISP8-7zq2KSgcGPilJ9TTzzcWiZLI4/view?usp=sharing",
+},
+
+
+    /* Manganese 100 - African Mahogany */
+
+
+{
+id: "Manganese 100 - African Mahogany",
+name: "• Manganese 100%\n• African Mahogany",
+image: "/colors/Manganese 100 - African Mahogany.jpg",
+driveUrl: "https://drive.google.com/file/d/1eaFjYg6oVYftgehMMOMbTOek5sj0BGSy/view?usp=sharing",
+},
+
+
+    /* Natural - Rift Cut White Oak */
+
+
+{
+id: "Natural - Rift Cut White Oak",
+name: "• Natural\n• Rift Cut White Oak",
+image: "/colors/Natural - Rift Cut White Oak.jpeg",
+driveUrl: "https://drive.google.com/file/d/1NOu9zelBzyfjwd1URfWS1JSvYTKtYoOu/view?usp=sharing",
+},
+
+
+    /* Essa 25 - Rift Cut White Oak */
+
+
+{
+id: "Essa 25 - Rift Cut White Oak",
+name: "• Essa 25%\n• Rift Cut White Oak",
+image: "/colors/Essa 25 - Rift Cut White Oak.jpeg",
+driveUrl: "https://drive.google.com/file/d/1x3KDc3E4BnBbRSIcNZAkgJ-yOQbJBUlt/view?usp=sharing",
+},
+
+
+    /* Essa 100 - Rift Cut White Oak */
+
+
+{
+id: "Essa 100 - Rift Cut White Oak",
+name: "• Essa 100%\n• Rift Cut White Oak",
+image: "/colors/Essa 100 - Rift Cut White Oak.jpeg",
+driveUrl: "https://drive.google.com/file/d/1LD94a06r-yzs2mDMzDR31r_7ghN9SXTC/view?usp=sharing",
+},
+
+
+    /* Yellot 10 - Rift Cut White Oak */
+
+
+{
+id: "Yellot 10 - Rift Cut White Oak",
+name: "• Yellot 10%\n• Rift Cut White Oak",
+image: "/colors/Yellot 10 - Rift Cut White Oak.jpeg",
+driveUrl: "https://drive.google.com/file/d/1sbBDo6B8hJJTFE6sMoN9Xbi6hybHOJ35/view?usp=sharing",
+},
+
+
+    /* Frigo - Rift Cut White Oak */
+
+
+{
+id: "Frigo - Rift Cut White Oak",
+name: "• Frigo\n• Rift Cut White Oak",
+image: "/colors/Frigo - Rift Cut White Oak.jpeg",
+driveUrl: "https://drive.google.com/file/d/1iPXgQlJUbTHMYp8JtVMrVcV4NAAeN6G6/view?usp=sharing",
+},
+
+
+    /* Oatmeal - Rift Cut White Oak */
+
+
+{
+id: "Oatmeal - Rift Cut White Oak",
+name: "• Oatmeal\n• Rift Cut White Oak",
+image: "/colors/Oatmeal - Rift Cut White Oak.jpeg",
+driveUrl: "https://drive.google.com/file/d/1-MHfZ2vyYsJMwDvWsKggGpmMyL5gN7Nl/view?usp=sharing",
+},
+
+
+    /* Espresso 75 - Rift Cut White Oak */
+
+
+{
+id: "Espresso 75 - Rift Cut White Oak",
+name: "• Espresso 75%\n• Rift Cut White Oak",
+image: "/colors/Espresso 75 - Rift Cut White Oak.jpg",
+driveUrl: "https://drive.google.com/file/d/1Ts9VuybR-enLbn6Zmw7Y4HQkszFV9SXl/view?usp=sharing",
+},
 ];
 
 
@@ -552,7 +772,7 @@ driveUrl: "https://drive.google.com/file/d/17C3TqJj8DHIDj3SYjBUwP65aDzq1ZcBS/vie
 
 /* {
 id: "Finish - Wood",
-name: "• Finish\n• Maple",
-image: "/colors/Finish - Wood.jpeg",
+name: "• Finish\n• Rift Cut White Oak",
+image: "/colors/Finish - Rift Cut White Oak.jpg",
 driveUrl: "https://drive.google.com/",
 }, */
