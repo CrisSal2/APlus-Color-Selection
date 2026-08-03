@@ -185,8 +185,25 @@ height: 141%;
 }
 
 
-.gd-open-drive:hover{ 
-  text-decoration: underline; 
+.gd-open-drive:hover{
+  text-decoration: underline;
+}
+
+
+.gd-view-ar{
+  appearance: none;
+  border: 1px solid #2563eb;
+  background: #2563eb;
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 8px 16px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.gd-view-ar:hover{
+  background: #1d4ed8;
 }
 
 
