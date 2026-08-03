@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import "./ColorSwatchGrid.css";
+import ARPreview from "./ARPreview";
 
 
 function getDrivePreviewUrl(url = "") {
@@ -43,6 +44,7 @@ function getDrivePreviewUrl(url = "") {
 
 export default function ColorSwatchGrid({ colors = [] }) {
   const [active, setActive] = useState(null); /* { name, driveUrl, previewUrl } */
+  const [arColor, setArColor] = useState(null); /* color currently shown in the AR camera preview */
 
   function openModal(color) {
     setActive({
@@ -132,9 +134,21 @@ export default function ColorSwatchGrid({ colors = [] }) {
 
 
 
+              <button
+                type="button"
+                className="gd-view-ar"
+                onClick={() => setArColor(active)}
+              >
+                View in Your Home
+              </button>
+
             </div>
           </div>
         </div>
+      )}
+
+      {arColor && (
+        <ARPreview color={arColor} onClose={() => setArColor(null)} />
       )}
     </div>
   );
