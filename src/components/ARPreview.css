@@ -27,6 +27,26 @@
   text-overflow: ellipsis;
 }
 
+.ar-topbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.ar-switch-camera {
+  appearance: none;
+  border: 1px solid #334155;
+  background: #1f2730;
+  color: #e5e7eb;
+  font-weight: 600;
+  font-size: 12px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.ar-switch-camera:hover { background: #2a3441; }
+
 .ar-close {
   appearance: none;
   background: transparent;

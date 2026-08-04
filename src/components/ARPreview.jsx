@@ -38,6 +38,7 @@ export default function ARPreview({ color, onClose }) {
   const panelImgRef = useRef(null);
   const canvasRef = useRef(null);
   const streamRef = useRef(null);
+  const mountedRef = useRef(true);
 
   const pointersRef = useRef(new Map());
   const modeRef = useRef(null);
@@ -48,11 +49,24 @@ export default function ARPreview({ color, onClose }) {
   const [transform, setTransform] = useState({ x: 0, y: 0, size: 160, rotation: 0 });
   const [capturedImage, setCapturedImage] = useState(null);
   const [hintVisible, setHintVisible] = useState(true);
+  const [devices, setDevices] = useState([]);
+  const [deviceIndex, setDeviceIndex] = useState(0);
 
   const onCloseRef = useRef(onClose);
   onCloseRef.current = onClose;
 
+  async function startStream(videoConstraints) {
+    const stream = await navigator.mediaDevices.getUserMedia({ video: videoConstraints, audio: false });
+    streamRef.current?.getTracks().forEach((t) => t.stop());
+    streamRef.current = stream;
+    if (videoRef.current) {
+      videoRef.current.srcObject = stream;
+      await videoRef.current.play().catch(() => {});
+    }
+  }
+
   useEffect(() => {
+    mountedRef.current = true;
     document.body.style.overflow = "hidden";
     function onKey(e) {
       if (e.key === "Escape") onCloseRef.current();
@@ -67,37 +81,56 @@ export default function ARPreview({ color, onClose }) {
       };
     }
 
-    let cancelled = false;
-    navigator.mediaDevices
-      .getUserMedia({ video: { facingMode: { ideal: "environment" } }, audio: false })
-      .then((stream) => {
-        if (cancelled) {
-          stream.getTracks().forEach((t) => t.stop());
-          return;
-        }
-        streamRef.current = stream;
-        if (videoRef.current) {
-          videoRef.current.srcObject = stream;
-          videoRef.current.play().catch(() => {});
-        }
+    (async () => {
+      try {
+        /* Resolution hints steer multi-lens phones toward the main sensor;
+           without them some Android devices hand back a black feed from a
+           secondary lens (depth/macro) instead of an error. */
+        await startStream({
+          facingMode: { ideal: "environment" },
+          width: { ideal: 1280 },
+          height: { ideal: 720 },
+        });
+        if (!mountedRef.current) return;
+
+        const all = await navigator.mediaDevices.enumerateDevices();
+        const videoInputs = all.filter((d) => d.kind === "videoinput");
+        if (mountedRef.current) setDevices(videoInputs);
+
         const rect = containerRef.current.getBoundingClientRect();
         const size = Math.min(rect.width, rect.height) * 0.42;
         setTransform({ x: rect.width / 2, y: rect.height / 2, size, rotation: 0 });
         setStatus("streaming");
-      })
-      .catch((err) => {
-        if (cancelled) return;
+      } catch (err) {
+        if (!mountedRef.current) return;
         setStatus("error");
         setErrorMessage(describeCameraError(err));
-      });
+      }
+    })();
 
     return () => {
-      cancelled = true;
+      mountedRef.current = false;
       document.body.style.overflow = "";
       document.removeEventListener("keydown", onKey);
       streamRef.current?.getTracks().forEach((t) => t.stop());
     };
   }, []);
+
+  async function switchCamera() {
+    if (devices.length < 2) return;
+    const nextIndex = (deviceIndex + 1) % devices.length;
+    try {
+      await startStream({
+        deviceId: { exact: devices[nextIndex].deviceId },
+        width: { ideal: 1280 },
+        height: { ideal: 720 },
+      });
+      setDeviceIndex(nextIndex);
+    } catch (err) {
+      setStatus("error");
+      setErrorMessage(describeCameraError(err));
+    }
+  }
 
   function getPoint(e) {
     const rect = containerRef.current.getBoundingClientRect();
@@ -253,7 +286,14 @@ export default function ARPreview({ color, onClose }) {
     <div className="ar-overlay" role="dialog" aria-modal="true" aria-label={`View ${color.name} in your home`}>
       <div className="ar-topbar">
         <span className="ar-topbar-title">{(color.name || "").replace(/\n/g, " · ")}</span>
-        <button type="button" className="ar-close" onClick={onClose} aria-label="Close AR preview">×</button>
+        <div className="ar-topbar-actions">
+          {status === "streaming" && !capturedImage && devices.length > 1 && (
+            <button type="button" className="ar-switch-camera" onClick={switchCamera} aria-label="Switch camera">
+              Switch Camera
+            </button>
+          )}
+          <button type="button" className="ar-close" onClick={onClose} aria-label="Close AR preview">×</button>
+        </div>
       </div>
 
       <div className="ar-stage" ref={containerRef}>
